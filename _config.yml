@@ -1,9 +1,12 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://php-internals.afup.org" # the base hostname & protocol for your site, e.g. http://example.com
+
 title: "AFUP Lyon"
 description: >- # this means to ignore newlines until "baseurl:"
   Antenne AFUP Lyon
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://php-internals.afup.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: afup
+twitter_username: AFUP_Lyon
+meetup_url: "https://www.meetup.com/fr-FR/afup-lyon-php/"
+
 
 # Build settings
 markdown: kramdown
@@ -25,3 +28,4 @@ plugins:
 
 feed:
   path: feed
+
