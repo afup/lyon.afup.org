@@ -15,8 +15,7 @@ Sur Lyon, le Super Apéro aura lieu à 19h au Bomp, près de l&rsquo;Hötel de v
 
 Si vous souhaitez vous joindre à nous, [merci de vous inscrire sur meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/259322155/).
 
-<img class="aligncenter size-medium wp-image-1710" src="http://lyon.afup.org/files/2017/02/super_apero_php-300x213.png" alt="" width="300" height="213" srcset="https://lyon.afup.org/files/2017/02/super_apero_php-300x213.png 300w, https://lyon.afup.org/files/2017/02/super_apero_php-768x545.png 768w, https://lyon.afup.org/files/2017/02/super_apero_php-1024x727.png 1024w, https://lyon.afup.org/files/2017/02/super_apero_php-422x300.png 422w, https://lyon.afup.org/files/2017/02/super_apero_php.png 1156w" sizes="(max-width: 300px) 100vw, 300px" /> 
+![Logo super apéro](/files/2017/02/super_apero_php-300x213.png)
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="https://www.meetup.com/fr-FR/afup-lyon-php/events/259322155/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/259322155" %}
