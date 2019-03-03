@@ -1,0 +1,33 @@
+  <aside class="sidebar" role="note"
+         {% if page.has_left_logo %}
+         style="background-image: url('https://identity.afup.org/assets/local_user_groups/aix.marseille/afup-aix.marseille_icon_colors-and-white_for-dark-background.png'); background-color: #1d2241"
+         {% else %}
+         style="background-color: #1d2241"
+         {% endif %}
+  >
+
+
+
+  {% if page.has_left_logo %}
+  <div class="cover">
+
+    <div class="cover-text" style="width: 100%; left: 0;background-color: #1d2241">
+      <div class="heading">
+        {{ site.title }}
+      </div>
+
+    </div>
+
+  </div>
+
+  <div id="switcher"></div>
+  {% else %}}
+    <div style="text-align: center">
+      <a href="{{ site.baseurl }}/">
+        <img src="https://identity.afup.org/assets/local_user_groups/aix.marseille/afup-aix.marseille_icon-and-text_colors-and-white_for-dark-background.png" style="width: 70%"/>
+      </a>
+
+    </div>
+
+  {% endif %}
+</aside>
