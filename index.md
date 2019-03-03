@@ -30,17 +30,15 @@ has_left_logo: true
   }
   </style>
 
+{% if site.subheader %}
 <div class="post-links">
-<a class="link-to-post" href="" style="margin:10px">
-  <span class="link-to-post__next"><i class="fas fa-bullhorn"></i>&nbsp;Appel à speakers</span>
+{% for subheader_item in site.subheader %}
+<a class="link-to-post" href="{{ subheader_item.url }}" style="margin:10px">
+  <span class="link-to-post__next"><i class="fas fa-{{ subheader_item.icon }}"></i>&nbsp;{{ subheader_item.label }}</span>
 </a>
-<a class="link-to-post" href=""  style="margin:10px">
-  <span class="link-to-post__next"><i class="fas fa-landmark"></i>&nbsp;Historique</span>
-</a>
-<a class="link-to-post" href=""  style="margin:10px">
-  <span class="link-to-post__next"><i class="fas fa-envelope"></i>&nbsp;Newsletter</span>
-</a>
+{% endfor %}
 </div>
+{% endif %}
 
   <h2 class="category-key">Dernier article</h2>
 
