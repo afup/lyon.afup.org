@@ -8,6 +8,18 @@ twitter_username: AFUP_Lyon
 meetup_url: "https://www.meetup.com/fr-FR/afup-lyon-php/"
 
 
+subheader:
+  - label: Appel à speakers
+    url: "/cfp"
+    icon: bullhorn
+  - label: "Historique"
+    url: "/historique"
+    icon: landmark
+  - label: "Newsletter"
+    url: "http://eepurl.com/bkOykX"
+    icon: "envelope"
+
+
 # Build settings
 markdown: kramdown
 theme: minima
