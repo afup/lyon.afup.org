@@ -1,5 +1,11 @@
 <header class="main-header content-wrapper" style="max-width: none">
 
+  <div style="background-color: #1d2241; text-align: center">
+    <a href="{{ site.baseurl }}/">
+      <img src="/files/theme/logo_text.png" style="width: 70%"/>
+    </a>
+  </div>
+
   <input type="checkbox" id="menu-checkbox" />
 
   <nav class="center-wrapper nav-main">
@@ -19,12 +25,9 @@
 
   {% if page.has_left_logo %}
   {% else %}
-  <div style="background-color: #1d2241; text-align: center">
-    <a href="{{ site.baseurl }}/">
-      <img src="/files/theme/logo_text.png" style="width: 70%"/>
-    </a>
-  </div>
+
   {% endif %}
+
 
 </header>
 
