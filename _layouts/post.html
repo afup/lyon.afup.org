@@ -3,13 +3,14 @@ layout: default
 ---
 <article class="post">
 
-  <h1 class="post-title">{{ page.title }}</h1>
+  <!--<div class="post-content content-wrapper-max-width" style="margin: 0 auto">-->
+    <div class="post-content content-wrapper-max-width" style="margin: 0 auto">
 
-  <p class="post-meta">
-    <time datetime="{{ page.date | date: "%Y-%m-%d" }}">Publié le {{ page.date | date: "%d/%m/%Y" }}</time>
-  </p>
+    <h1 class="post-title">{{ page.title }}</h1>
 
-  <div class="post-content content-wrapper-max-width">
+    <p class="post-meta">
+      <time datetime="{{ page.date | date: "%Y-%m-%d" }}">Publié le {{ page.date | date: "%d/%m/%Y" }}</time>
+    </p>
 
     {{ content }}
 

@@ -1,14 +1,8 @@
-  <aside class="sidebar" role="note"
-         {% if page.has_left_logo %}
+
+{% if page.has_left_logo %}
+<aside class="sidebar" role="note"
          style="background-image: url('/files/theme/logo_simple.png'); background-color: #1d2241"
-         {% else %}
-         style="background-color: #1d2241"
-         {% endif %}
   >
-
-
-
-  {% if page.has_left_logo %}
   <div class="cover">
 
     <div class="cover-text" style="width: 100%; left: 0;background-color: #1d2241">
@@ -21,13 +15,13 @@
   </div>
 
   <div id="switcher"></div>
-  {% else %}}
+    <!--
     <div style="text-align: center">
-      <a href="{{ site.baseurl }}/">
-        <img src="/files/theme/logo_text.png" style="width: 70%"/>
-      </a>
+
 
     </div>
+    -->
 
-  {% endif %}
+
 </aside>
+{% endif %}
