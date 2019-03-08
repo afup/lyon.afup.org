@@ -1,11 +1,12 @@
 ---
 layout: page
 active: archive
-has_left_logo: true
+body_class: "index"
 ---
 
   <style>
   .read-more {
+
   display:inline-block;
   padding: 10px 30px;
   background-color:#ed0678;

@@ -6,16 +6,14 @@ layout: compress
 
   {% include head.html %}
 
-  <body  class="tmpnormalsize">
-    <div id="shadow"></div>
+  <body class="{{ page.body_class }}">
+    <div class="content-container">
+      <div id="shadow"></div>
+        {% include header.html %}
 
-      {% include header.html %}
+        {{ content }}
 
-    <main class="content-wrapper" {% if page.has_left_logo %}style="max-width: none"{% endif %}>
-      {{ content }}
-    </main>
-
-    {% include footer.html %}
-
+        {% include footer.html %}
+    </div>
   </body>
 </html>
