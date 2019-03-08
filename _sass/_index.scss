@@ -1,0 +1,32 @@
+.read-more {
+  display:inline-block;
+  padding: 10px 30px;
+  background-color:#ed0678;
+  color:#fff;
+  font-size: 130%;
+  text-transform: capitalize;
+  text-decoration: none;
+  font-family: Arimo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.subheader-link {
+  font-family: Roboto;
+  width: 100%;
+  display: block;
+  padding: 1em;
+  text-decoration: none;
+  outline: none;
+  text-align: center;
+  border: 1px solid #ddd;
+  transition: border-color .5s ease-in 0s;
+  font-size:1em;
+  margin:10px;
+  &:hover { border-color: #0D243B; }
+}
+
+.subheader {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin: 1em 0;
+}

@@ -5,6 +5,7 @@ date: 2015-03-09T23:49:51+00:00
 layout: page
 guid: http://lyon.afup.org/?page_id=796
 permalink: /historique/
+has_subheader: true
 ---
 
 # Historique

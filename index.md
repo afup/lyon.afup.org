@@ -2,44 +2,8 @@
 layout: page
 active: archive
 body_class: "index"
+has_subheader: true
 ---
-
-  <style>
-  .read-more {
-
-  display:inline-block;
-  padding: 10px 30px;
-  background-color:#ed0678;
-  color:#fff;
-  font-size: 130%;
-  text-transform: capitalize;
-  text-decoration: none;
-  font-family: Arimo, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  }
-  
-  .link-to-post {
-    padding: 1em;
-    font-family: Roboto;
-  }
-  
-  .link-to-post .link-to-post__next {
-    font-size:1em;
-  }
-  
-  .post-links {
-  margin-bottom: 2em;
-  }
-  </style>
-
-{% if site.subheader %}
-<div class="post-links">
-{% for subheader_item in site.subheader %}
-<a class="link-to-post" href="{{ subheader_item.url }}" style="margin:10px">
-  <span class="link-to-post__next"><i class="fas fa-{{ subheader_item.icon }}"></i>&nbsp;{{ subheader_item.label }}</span>
-</a>
-{% endfor %}
-</div>
-{% endif %}
 
   <h2 class="category-key">Dernier article</h2>
 
