@@ -12,7 +12,7 @@ categories:
 ---
 Avant d&rsquo;attaquer la période estivale, nous vous proposons une dernière conférence à Sciences-U, suivie d&rsquo;un atelier, autour des générateurs et de l&rsquo;asynchrone en PHP !
 
-# Conférence mardi 12 juin à 19h: Générateurs et Asynchrone : mode d’emploi. Élection des représentants
+## Conférence mardi 12 juin à 19h: Générateurs et Asynchrone : mode d’emploi. Élection des représentants
 
 Tout d&rsquo;abord, nous prendrons un peu de temps (~15 minutes) pour dresser une brève rétrospective de l&rsquo;année passée et vous présenter la liste des coordinatrices/coordinateurs que nous proposons pour l&rsquo;antenne lyonnaise et nous vous solliciterons pour voter lors de l&rsquo;[élection de vos représentants](https://afup.org/news/993-les-antennes-designent-leurs-representants).
 
@@ -34,7 +34,7 @@ Cette soirée aura lieu dans l’amphithéâtre de Sciences-U, au 53 Cours Alber
 
 N’hésitez pas à nous rejoindre : pour cela, merci de [vous inscrire](https://www.meetup.com/fr-FR/afup-lyon-php/events/251104151/).
 
-# Atelier le jeudi 14 juin à 19h : créer son micro-framework asynchrone avec les générateurs
+## Atelier le jeudi 14 juin à 19h : créer son micro-framework asynchrone avec les générateurs
 
 Cet atelier sera animé lui aussi par [Benoit Viguier](https://b-viguier.github.io/) et il fait suite à sa conférence décrite ci-dessus.
 
