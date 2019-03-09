@@ -5,6 +5,8 @@ body_class: "index"
 has_subheader: true
 ---
 
+  <h1>{{ site.title }}</h1>
+
   <h2 class="category-key">Dernier article</h2>
   
   {% for post in site.posts limit:1 %}
