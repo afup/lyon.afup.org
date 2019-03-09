@@ -2,12 +2,11 @@
 layout: default
 ---
 <article class="post">
-    <div class="post-content content-wrapper-max-width" style="margin: 0 auto">
 
     <h1 class="post-title">{{ page.title }}</h1>
 
     <p class="post-meta">
-      <time datetime="{{ page.date | date: "%Y-%m-%d" }}">Publié le {{ page.date | date: "%d/%m/%Y" }}</time>
+        <span class="post-date">Publié le {{ page.date | date: "%d/%m/%Y" }}</span>
     </p>
 
     {{ content }}
@@ -26,8 +25,6 @@ layout: default
           <span class="link-to-post__title">{{ page.next.title }}</span>
         </a>
       {% endif %}
-
     </div>
 
-  </div>
 </article>

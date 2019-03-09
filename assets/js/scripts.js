@@ -5,7 +5,7 @@
 (function() {
   /* variables */
   var shadow = document.getElementById('shadow');
-  var images = document.querySelectorAll('.post-content a img');
+  var images = document.querySelectorAll('.post a img');
   var imageHeight = window.innerHeight - 20;
 
   /* events */
