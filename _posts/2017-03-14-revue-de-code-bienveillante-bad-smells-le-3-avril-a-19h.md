@@ -26,6 +26,4 @@ Comme à notre habitude, nous nous retrouverons dans les locaux d&rsquo;Epitech 
 Cette soirée est gratuite et ouverte à toutes et à tous.  
 Merci d&rsquo;indiquer votre présence sur meetup.com.
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a href="https://www.meetup.com/fr-FR/afup-lyon-php/events/238409034/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/238409034" %}

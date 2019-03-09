@@ -27,8 +27,4 @@ Et surtout pour remercier les conférencier.e.s n&rsquo;hésitez pas à leurs fa
 
 N’hésitez pas à nous rejoindre : pour cela, merci de [vous inscrire](http://www.meetup.com/fr-FR/afup-lyon-php/events/243095927/).
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="http://www.meetup.com/fr-FR/afup-lyon-php/events/243095927/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
-
-&nbsp;
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/243095927" %}

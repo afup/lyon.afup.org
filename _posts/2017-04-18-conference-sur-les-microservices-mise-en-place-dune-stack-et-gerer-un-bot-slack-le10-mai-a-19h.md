@@ -26,6 +26,4 @@ La soirée aura lieu dans l’amphithéâtre d’Epitech au 86 boulevard Marius 
 
 N’hésitez pas à nous rejoindre : pour cela, merci de [vous inscrire](http://www.meetup.com/fr-FR/afup-lyon-php/events/238962532/).
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="http://www.meetup.com/fr-FR/afup-lyon-php/events/238962532/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/238962532" %}
