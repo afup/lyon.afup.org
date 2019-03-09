@@ -13,8 +13,9 @@ body.index {
       text-decoration: none;
     }
 
-    .latest-article-title-date {
-
+    .latest-article-date {
+      text-align: right;
+      float: right;
     }
   }
 
@@ -33,12 +34,12 @@ body.index {
         text-decoration: underline
       }
     }
+
+    .previous-article-date {
+      text-align: right;
+      float: right;
+      color: #333333;
+    }
   }
 }
 
-.date {
-  text-align: right;
-  float: right;
-  color: #333333;
-  display: none;
-}
