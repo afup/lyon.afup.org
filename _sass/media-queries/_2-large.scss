@@ -1,0 +1,59 @@
+@media screen and (min-width: $break-point) {
+  table {
+    display: table;
+    min-width: 100%;
+  }
+
+  .main-header {
+    position: static;
+  }
+
+  .nav-main {
+    padding: 0;
+    text-align: left;
+    a {
+      font-size: 13px;
+      display: block;
+      padding-right: 2em;
+      margin: 0;
+    }
+  }
+
+  .content-container {
+    margin: 0 auto;
+    max-width: $content-wrapper-width;
+  }
+
+  article {
+    width: 80%;
+    margin: auto;
+    h2:first-of-type {
+      margin-top: 0;
+    }
+  }
+
+  .post-links {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .subheader {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .subheader-link {
+    width: 100%;
+  }
+
+  .link-to-post {
+    margin: 50px auto;
+    padding: 2em;
+
+    .fas {
+      margin: 0 8px;
+    }
+  }
+}

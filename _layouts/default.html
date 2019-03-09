@@ -10,10 +10,8 @@ layout: compress
     <div class="content-container">
         {% include header.html %}
 
-        <div class="primary-content">
-          {% include subheader.html %}
-          {{ content }}
-        </div>
+        {% include subheader.html %}
+        {{ content }}
 
         {% include footer.html %}
     </div>

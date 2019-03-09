@@ -18,5 +18,7 @@
 @import "ui/widgets/youtube";
 @import "content-types/post";
 @import "content-types/index";
-@import "media-queries/media-queries";
+@import "media-queries/0-base";
+@import "media-queries/1-medium";
+@import "media-queries/2-large";
 
