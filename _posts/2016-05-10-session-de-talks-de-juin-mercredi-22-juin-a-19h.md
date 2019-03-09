@@ -15,10 +15,10 @@ Le mercredi 22 juin à 19h, vous pourrez assister à une dernière session de ta
 
 Chaque talk durera entre 10 et 20 minutes : 
 
-&#8211; Thomas Jarrand : Implementer une &laquo;&nbsp;two-factor authentication&nbsp;&raquo; YubiKey dans Symfony  
-&#8211; Matthieu Napoli : Lancez-vous dans l&rsquo;open source !  
-&#8211; Florian Ferrière : Les Foreign Data Wrapper de PostgreSQL  
-&#8211; Pascal Martin : Le café, cette drogue qui propulse nos métiers
+* Thomas Jarrand : Implementer une &laquo;&nbsp;two-factor authentication&nbsp;&raquo; YubiKey dans Symfony  
+* Matthieu Napoli : Lancez-vous dans l&rsquo;open source !  
+* Florian Ferrière : Les Foreign Data Wrapper de PostgreSQL  
+* Pascal Martin : Le café, cette drogue qui propulse nos métiers
 
 **Lieu et inscriptions**
 
@@ -46,6 +46,4 @@ N’hésitez pas à nous rejoindre : pour cela, [merci de vous inscrire](http://
 > “J’arrête quand je veux !”. Voila une phrase que j’ai prononcée un bon nombre de fois, pendant plusieurs années, quand on me disait que j’en consommais trop. En fait, l’expérience a prouvé que ce n’était pas tout à fait aussi facile.  
 > On dit souvent que le café est la boisson qui fait tourner le monde du développement informatique… Mais savez-vous d’où elle vient ? Et quels sont ses effets ? Y compris sur nos cerveaux fragiles ? Et pourquoi nous pouvons aller jusqu’à ressentir un effet de manque lorsque nous n’en buvons pas ?
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="http://www.meetup.com/fr-FR/afup-lyon-php/events/231014775/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/231014775" %}

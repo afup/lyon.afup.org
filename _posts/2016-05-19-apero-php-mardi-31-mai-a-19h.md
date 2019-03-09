@@ -19,6 +19,4 @@ Merci aux participants de s&rsquo;inscrire sur le [groupe meetup](http://www.mee
 
 PS : vous avez toujours la possibilité de vous [inscrire à la session de talks de juin](http://lyon.afup.org/2016/05/10/session-de-talks-de-juin-mercredi-22-juin-a-19h/) qui aura lieu le 22 juin, ainsi qu&rsquo;à la [journée sur atoum](http://atoum.org/event/2016/05/03/atoum-s-day.html) le 4 juin.
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="http://www.meetup.com/fr-FR/afup-lyon-php/events/231174070/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/231174070" %}

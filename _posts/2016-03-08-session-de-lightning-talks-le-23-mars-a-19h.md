@@ -13,11 +13,13 @@ Le 23 mars à 19h, vous aurez l’occasion d&rsquo;assister à plusieurs lightni
 
 **Voici la liste des sujets et speakers**
 
-<div style="font-size: 1.2em">
-  <p>
-    &#8211; Behat to the Fixtures, par <a href="https://twitter.com/GuilhemBourgoin">Guilhem Bourgoin</a><br /> &#8211; Management 3.0, en route vers l&rsquo;harmocratie, par <a href="https://twitter.com/YannickGard">Yannick Gard</a><br /> &#8211; PHP 7 : Migrez !, par <a href="https://twitter.com/srogier">Sébastien Rogier</a><br /> &#8211; Array Tips, par <a href="https://twitter.com/b_viguier">Benoit Viguier</a><br /> &#8211; Ecrire un langage en moins de 10 minutes, par <a href="https://twitter.com/jubianchi">Julien Bianchi</a><br /> &#8211; Composer, le cercle vertueux des dépendances, par <a href="https://twitter.com/s_hulard">Stéphane Hulard</a><br /> &#8211; Le café, cette drogue qui propulse nos métiers, par <a href="https://twitter.com/pascal_martin">Pascal Martin</a>
-  </p>
-</div>
+* Behat to the Fixtures, par <a href="https://twitter.com/GuilhemBourgoin">Guilhem Bourgoin</a>
+* Management 3.0, en route vers l&rsquo;harmocratie, par <a href="https://twitter.com/YannickGard">Yannick Gard</a>
+* PHP 7 : Migrez !, par <a href="https://twitter.com/srogier">Sébastien Rogier</a>
+* Array Tips, par <a href="https://twitter.com/b_viguier">Benoit Viguier</a>
+* Ecrire un langage en moins de 10 minutes, par <a href="https://twitter.com/jubianchi">Julien Bianchi</a>
+* Composer, le cercle vertueux des dépendances, par <a href="https://twitter.com/s_hulard">Stéphane Hulard</a>
+* Le café, cette drogue qui propulse nos métiers, par <a href="https://twitter.com/pascal_martin">Pascal Martin</a>
 
 **Lieu et inscriptions**
 

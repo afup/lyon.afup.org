@@ -31,6 +31,6 @@ PS : cet atelier sera aussi donné lors du [PHPTour](http://phptour.org) à Cler
 
 PS2 : vous pouvez encore vous inscrire [aux conférences du 19 avril](http://www.meetup.com/fr-FR/afup-lyon-php/events/229796869/) sur la performance web / asynchrone en PHP qui auront lieu sur Lyon.
 
-<img class="aligncenter" src="http://lyon.afup.org/files/2016/04/3v4l.png" alt="3v4l" width="198" height="63" /> 
+![Logo 3v4l](/files/2016/04/3v4l.png)
 
-<img class="aligncenter size-full wp-image-933" src="http://lyon.afup.org/files/2015/02/global_350283322.png" alt="global_350283322" width="180" height="149" />
+![Logo docker](/files/2015/02/global_350283322.png)

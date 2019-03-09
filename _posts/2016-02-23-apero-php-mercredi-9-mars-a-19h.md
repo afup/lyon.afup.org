@@ -19,6 +19,6 @@ En plus de permettre aux développeurs PHP Lyonnais de se retrouver autour d&rsq
 
 Merci aux participants de s&rsquo;inscrire sur le [site des apéros PHP](http://aperophp.net/385/view.html).
 
-<img class="aligncenter size-medium wp-image-845" src="http://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw-225x300.jpg" alt="Bl10fnCIgAAcGPw" width="225" height="300" srcset="https://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw-225x300.jpg 225w, https://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" /> 
+![Photo apéro](/files/2014/10/Bl10fnCIgAAcGPw-225x300.jpg) 
 
 PS : vous avez toujours la possibilité de vous [inscrire à la session de Lightning talk](http://lyon.afup.org/2016/03/08/session-de-lightning-talks-le-23-mars-a-19h/) qui aura lieu le 23 mars

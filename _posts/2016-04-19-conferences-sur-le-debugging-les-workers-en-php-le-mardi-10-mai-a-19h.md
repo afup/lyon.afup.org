@@ -25,6 +25,4 @@ Débuguer peut se révéler long et fastidieux. C&rsquo;est du temps perdu qu&rs
 
 Soyons honnêtes, PHP n&rsquo;est peut-être pas le langage de prédilection pour réaliser des daemons. 😉 Mais laissons les préjugés de coté et voyons les nombreux avantages à ajouter des workers à une application PHP. Retour d&rsquo;expérience après 2 ans et des dizaines de workers en production. Focus le monitoring, l&rsquo;utilisation de RabbitMq, Redis, MySQL, Cassandra&#8230; et plus généralement les problèmes rencontrés et les pièges à éviter.
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="http://www.meetup.com/fr-FR/afup-lyon-php/events/230489627/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/230489627" %}

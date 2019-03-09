@@ -19,9 +19,7 @@ Afin d&rsquo;aider les différents participants à se retrouver, nous avons mis 
 
 N&rsquo;hésitez pas à vous ajouter dans ce document, que ce soit en tant que conducteur ou passager :
 
-<div style="background-color: #425da2;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="https://docs.google.com/spreadsheets/d/1RAGhWyMdvfK9-4kiOA4etjJomSeJ0O9iCspAehJ0Wt4/edit#gid=0" target="_blank">Consulter la liste des covoiturages / Se proposer pour covoiturer</a>
-</div>
+{% include widgets/big_button.html url="https://docs.google.com/spreadsheets/d/1RAGhWyMdvfK9-4kiOA4etjJomSeJ0O9iCspAehJ0Wt4/edit#gid=0" text="Consulter la liste des covoiturages / Se proposer pour covoiturer" %}
 
 Nous vous souhaitons de passer un bon trajet pour le PHPTour.
 

@@ -30,9 +30,7 @@ Voici la description complète de l’atelier :
 
 Si vous souhaitez participer, merci de vous inscrire sur meetup. Le nombre de place étant très limité, merci de vous désinscrire si vous ne pouvez plus venir.
 
-<div style="background-color: #ed1c40;width: 100%;padding: 25px;margin: 10px;font-weight: bold;text-align: center">
-  <a style="color: #fff" href="https://www.meetup.com/fr-FR/afup-lyon-php/events/235437089/">S&rsquo;inscrire / Consulter la page sur meetup.com</a>
-</div>
+{% include widgets/meetup.html url="https://www.meetup.com/fr-FR/afup-lyon-php/events/235437089" %}
 
 Si vous n&rsquo;êtes toujours pas convaincu pour vous inscrire, voici quelques retours sur l&rsquo;atelier précédent : 
 
