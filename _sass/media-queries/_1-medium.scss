@@ -23,13 +23,7 @@
   }
 
   .nav-main {
-    .blog-logo {
-      -webkit-order: 0;
-      -ms-flex-order: 0;
-      order: 0;
-      width: auto;
-    }
-
+    .blog-logo,
     .logo-image {
       display: none;
     }
