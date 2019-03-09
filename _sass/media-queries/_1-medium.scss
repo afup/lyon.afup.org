@@ -7,8 +7,6 @@
   h5 { font-size: 1em; }
   h6 { font-size: .8em; }
 
-  main { padding-top: 0; }
-
   .nav-item-mobile-only {
     display: none !important;
   }
@@ -35,56 +33,12 @@
     display: block;
   }
 
-  .alingleft, .alignright, .aligncenter {
+  .aligncenter {
     display: inline-block;
-  }
-
-  .alignleft {
-    float: left;
-    margin: .5em 1em .25em 0;
-  }
-
-  .alignright {
-    float: right;
-    margin: .5em 1em .25em 0;
-  }
-
-  .aligncenter { margin: 1em auto; }
-
-  .elements-wrapper {
-    -webkit-flex-flow: row wrap;
-    -ms-flex-flow: row wrap;
-    flex-flow: row wrap;
-
-    .element-container {
-      width: 33%;
-    }
-
+    margin: 1em auto;
   }
 
   .date { display: block;}
-
-  .work {
-    display: flex;
-    flex-flow: row wrap;
-    &-item {
-      width: 50%;
-      min-height: 300px;
-
-      &:nth-child(odd) {
-        border-right: 1px solid #ddd;
-      }
-
-      &:first-child { border-top-width: 0; }
-      &:nth-child(2) { border-top-width: 0; }
-    }
-
-    &-item-small {
-      width: 33%;
-      min-height: 200px;
-      border: 1px solid #ddd;
-    }
-  }
 
   .header-image {
     display: block;
