@@ -1,12 +1,18 @@
-.read-more {
+a.read-more {
   display:inline-block;
   padding: 10px 30px;
   background-color:#ed0678;
+  border: 1px solid #ed0678;
   color:#fff;
   font-size: 130%;
-  text-transform: capitalize;
+  text-transform: uppercase;
   text-decoration: none;
   font-family: Arimo, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  &:hover {
+    color:#ed0678;
+    background-color: #fff;
+    text-decoration: none;
+  }
 }
 
 .subheader-link {

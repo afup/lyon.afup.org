@@ -19,7 +19,7 @@ has_subheader: true
             {{ post.excerpt }}
             
             <div style="text-align:right">
-<a href="{{ post.url | relative_url}}" class="read-more">VOIR PLUS</a>
+<a href="{{ post.url | relative_url}}" class="read-more">Voir plus</a>
             </div>
             </li>
             </ul>
