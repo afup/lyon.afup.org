@@ -1,5 +1,8 @@
-article {
+.post {
   padding: 2em 1em;
+  font-size: 1.1em;
+  line-height: 1.6em;
+
   img,
   embed,
   object,
@@ -26,18 +29,8 @@ article {
     padding: .2em;
     background-color: #fff;
   }
-}
 
-.post a img {
-  cursor: -webkit-zoom-in;
-  cursor: zoom-in;
-}
-
-.post {
-  font-size: 1.1em;
-  line-height: 1.6em;
-}
-
-.post li {
-  padding: 4px 0;
+  li {
+    padding: 4px 0;
+  }
 }
