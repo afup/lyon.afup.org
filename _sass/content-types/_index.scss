@@ -1,25 +1,39 @@
-body.index article {
-  width: 100%;
-}
+body.index {
+  article {
+    width: 100%;
+  }
 
+  .latest-article {
+    .latest-article-title {
+      font-weight: bold;
+    }
 
-.year {
-  padding: 0;
-  list-style: none;
-}
+    a.latest-article-title,
+    .latest-article-title-excerpt a {
+      text-decoration: none;
+    }
 
-.year li {
-  padding: 5px;
-  padding: 8px 10px;
-  border-bottom: 1px dotted #eae4da
-}
+    .latest-article-title-date {
 
-.year a {
-  text-decoration: none
-}
+    }
+  }
 
-.year a:hover {
-  text-decoration: underline
+  .previous-articles {
+    padding: 0;
+    list-style: none;
+
+    li {
+      padding: 8px 10px;
+      border-bottom: 1px dotted #eae4da
+    }
+
+    a {
+      text-decoration: none;
+      &:hover {
+        text-decoration: underline
+      }
+    }
+  }
 }
 
 .date {
