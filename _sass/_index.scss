@@ -18,10 +18,17 @@
   outline: none;
   text-align: center;
   border: 1px solid #ddd;
-  transition: border-color .5s ease-in 0s;
   font-size:1em;
   margin:10px;
-  &:hover { border-color: #0D243B; }
+
+  &:hover {
+    color: #fff;
+    background-color: #1d2241;
+  }
+
+  .icon {
+    margin-right: 10px;
+  }
 }
 
 .subheader {

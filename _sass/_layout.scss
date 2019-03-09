@@ -126,10 +126,13 @@ body {
     margin: auto;
     color: #333;
     text-decoration: none;
+    padding: 0 1rem;
+
     &:hover,
     &:focus,
     &:active {
-      color: #766257;
+      color: #fff;
+      background-color: #1d2241;
     }
   }
 
@@ -155,6 +158,12 @@ body {
     border-bottom: 0;
     text-align: center;
     font-weight: bold;
+    &:hover,
+    &:focus,
+    &:active {
+      color: #000;
+      background: none;
+    }
   }
 }
 
