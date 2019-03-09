@@ -1,3 +1,8 @@
 .hidden {
   display: none;
 }
+
+.center-wrapper {
+  max-width: $break-point;
+  margin: 0 auto;
+}

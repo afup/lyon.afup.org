@@ -1,0 +1,30 @@
+body.index article {
+  width: 100%;
+}
+
+
+.year {
+  padding: 0;
+  list-style: none;
+}
+
+.year li {
+  padding: 5px;
+  padding: 8px 10px;
+  border-bottom: 1px dotted #eae4da
+}
+
+.year a {
+  text-decoration: none
+}
+
+.year a:hover {
+  text-decoration: underline
+}
+
+.date {
+  text-align: right;
+  float: right;
+  color: #333333;
+  display: none;
+}

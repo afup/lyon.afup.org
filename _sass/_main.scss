@@ -5,10 +5,15 @@
 @import "base/code-style";
 @import "base/table";
 @import "base/blockquote";
-@import "layout"; //TODO
+@import "layout/global";
+@import "layout/subheader";
+@import "layout/nav";
+@import "layout/header";
+@import "layout/footer";
 @import "ui/prev-next";
 @import "ui/call-to-action";
 @import "content-types/post";
+@import "content-types/index";
 @import "media-queries/media-queries";
 @import "sort"; //TODO
 
