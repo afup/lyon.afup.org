@@ -1,0 +1,46 @@
+article {
+  padding: 2em 1em;
+  img,
+  embed,
+  object,
+  video,
+  iframe {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+  }
+
+  &:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  h1 { margin-top: 0; }
+
+  img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 1em auto;
+    padding: .2em;
+    background-color: #fff;
+  }
+}
+
+.post-meta {
+  padding-bottom: .5em;
+  text-transform: uppercase;
+  color: #b9b9b9;
+  font-size: 70%;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+  a, a:hover, a:focus, a:visited {
+    color: #333;
+  }
+
+  .meta-black {
+    color: #333;
+  }
+
+}

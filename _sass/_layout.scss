@@ -1,14 +1,4 @@
-/*
-* Links
-* ========================================================================== */
-a {
-  color: #333;
-  &:hover,
-  &:focus,
-  &:active { text-decoration: none; }
-}
-
-
+@import "layout/subheader";
 
 /*
 * Toggle Button
@@ -185,54 +175,6 @@ main {
   }
 }
 
-article {
-  padding: 2em 1em;
-  img,
-  embed,
-  object,
-  video,
-  iframe {
-    display: block;
-    margin: 0 auto;
-    max-width: 100%;
-  }
-
-  &:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-
-  h1 { margin-top: 0; }
-
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 1em auto;
-    padding: .2em;
-    background-color: #fff;
-  }
-}
-
-.post-meta {
-  padding-bottom: .5em;
-  text-transform: uppercase;
-  color: #b9b9b9;
-  font-size: 70%;
-  font-weight: bold;
-  font-family: 'Roboto Condensed', sans-serif;
-  a, a:hover, a:focus, a:visited {
-    color: #333;
-  }
-
-  .meta-black {
-    color: #333;
-  }
-
-}
-
-
 /*
 * Archive
 * ========================================================================== */
@@ -267,13 +209,7 @@ article {
 /*
 * Footer
 * ========================================================================== */
-.blog-footer {
-  height: 4em;
-  font-size: 70%;
-  border-top: 1px solid #ddd;
-  text-align: center;
-  line-height: 1.5em;
-}
+@import "layout/footer";
 
 
 body.index article {

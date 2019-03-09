@@ -29,3 +29,10 @@ h6 { font-size: .6em; }
 *,
 *:before,
 *:after { box-sizing: border-box; }
+
+a {
+  color: #333;
+  &:hover,
+  &:focus,
+  &:active { text-decoration: none; }
+}
