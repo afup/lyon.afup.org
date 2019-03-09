@@ -11,9 +11,10 @@ layout: compress
       <div id="shadow"></div>
         {% include header.html %}
 
-        {% include subheader.html %}
-
-        {{ content }}
+        <div class="primary-content">
+          {% include subheader.html %}
+          {{ content }}
+        </div>
 
         {% include footer.html %}
     </div>

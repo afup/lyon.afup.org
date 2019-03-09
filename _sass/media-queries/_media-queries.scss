@@ -97,6 +97,10 @@
   .nav-main a {
     font-size: 14px;
   }
+
+  .primary-content {
+    padding-top: 55px;
+  }
 }
 
 
@@ -131,9 +135,7 @@
     max-width: $content-wrapper-width;
   }
 
-  main {
-    padding-top: 1em;
-  }
+
 
   article {
     width: 80%;
@@ -147,6 +149,16 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+  }
+
+  .subheader {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .subheader-link {
+    width: 100%;
   }
 
   .link-to-post {
