@@ -33,8 +33,6 @@ Voici donc le programme :
 
 La conférence aura lieu le jeudi 5 novembre à 19h, dans les locaux d’Epitech, au 86 boulevard Marius Vivier-Merle 69003 LYON. Merci de [vous y inscrire](https://serializer-sf2--flux-php.eventbrite.fr) préalablement.
 
-<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
-
 PS1 : vous pouvez toujours vous inscrire à <a href="http://lyon.afup.org/2015/10/13/apero-php-jeudi-29-octobre-a-19h/" target="_blank">l&rsquo;apéro PHP</a> du mois d&rsquo;octobre.
 
 PS2 : si ce n&rsquo;est pas encore fait, inscrivez vous au <a href="http://event.afup.org/" target="_blank">Forum PHP</a>, les places partent vite.

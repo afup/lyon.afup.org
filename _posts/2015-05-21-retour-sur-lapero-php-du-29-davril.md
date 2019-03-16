@@ -31,7 +31,7 @@ En fonction de l’exigence du projet en terme de performance, de la durée de v
 
 Ils ont également essayé de nous montrer que le métier de développeur, ce n&rsquo;est pas forcement que du code mais, pour qu&rsquo;un projet réussisse, il faut sortir la tête de son écran et interagir avec les autres intervenant du projet (client, autre développeur) pour faire évoluer le projet dans le bon sens.
 
-[<img class=" size-medium wp-image-1102 aligncenter" src="http://lyon.afup.org/files/2015/05/IMG_0345-300x225.png" alt="IMG_0345" width="300" height="225" srcset="https://lyon.afup.org/files/2015/05/IMG_0345-300x225.png 300w, https://lyon.afup.org/files/2015/05/IMG_0345-400x300.png 400w, https://lyon.afup.org/files/2015/05/IMG_0345.png 640w" sizes="(max-width: 300px) 100vw, 300px" />](http://lyon.afup.org/files/2015/05/IMG_0345.png)
+![](/files/2015/05/IMG_0345-300x225.png)
 
 Les slides : <http://beaute-vs-efficacite.github.io/slides/#/>
 

@@ -13,6 +13,6 @@ Le 6 mai a eu lieu un [retour sur l&rsquo;utilisation d&rsquo;AWS](http://lyon.a
 
 Voici les slides utilisés pour la présentation : <http://b-viguier.github.io/downloads/talks/Afup-NeverTooYoung4Cloud.pdf>
 
-<img class="aligncenter size-medium wp-image-1128" src="http://lyon.afup.org/files/2015/05/IMG_0352-300x225.jpg" alt="IMG_0352" width="300" height="225" srcset="https://lyon.afup.org/files/2015/05/IMG_0352-300x225.jpg 300w, https://lyon.afup.org/files/2015/05/IMG_0352-1024x768.jpg 1024w, https://lyon.afup.org/files/2015/05/IMG_0352-400x300.jpg 400w" sizes="(max-width: 300px) 100vw, 300px" /> 
+![](/files/2015/05/IMG_0352-300x225.jpg)
 
 PS : vous pouvez toujours vous inscrire à la [conférence sur Pomm](http://lyon.afup.org/2015/05/19/conference-sur-pomm-le-4-juin-a-19h/)

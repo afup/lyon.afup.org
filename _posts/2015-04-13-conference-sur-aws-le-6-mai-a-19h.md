@@ -17,10 +17,8 @@ Le principal avantage pour une petite entreprise, c’est la flexibilité. Pouvo
 
 Voici un retour d&rsquo;expérience sur un hébergement full AWS en startup: **pourquoi le cloud, comment migrer pas à pas, comment passer à l&rsquo;échelle, et combien ça coûte**.
 
-[<img class="aligncenter size-medium wp-image-1035" src="http://lyon.afup.org/files/2015/04/aws_logo-300x132.png" alt="aws_logo" width="300" height="132" srcset="https://lyon.afup.org/files/2015/04/aws_logo-300x132.png 300w, https://lyon.afup.org/files/2015/04/aws_logo-500x219.png 500w, https://lyon.afup.org/files/2015/04/aws_logo.png 577w" sizes="(max-width: 300px) 100vw, 300px" />](http://lyon.afup.org/files/2015/04/aws_logo.png)
+![](/files/2015/04/aws_logo-300x132.png)
 
 La conférence aura lieu le mercredi 6 mai à 19h, dans les locaux d’Epitech, au 86 boulevard Marius Vivier-Merle 69003 LYON.
-
-<!-- iframe plugin v.4.3 wordpress.org/plugins/iframe/ -->
 
 Si vous voulez vous joindre à nous, n’oubliez pas de [vous inscrire](https://retour-migration-aws.eventbrite.fr).

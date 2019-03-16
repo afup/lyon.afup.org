@@ -15,4 +15,4 @@ Vous retrouverez la description et pourrez vous **inscrire sur la [page du meetu
 
 Cette présentation aura lieu le lundi 16 mars à 19h dans les locaux de l&rsquo;INSA, au 6 avenue des Arts, Villeurbanne.
 
-<img class="aligncenter size-full wp-image-933" src="http://lyon.afup.org/files/2015/02/global_350283322.png" alt="" width="180" height="149" />
+![](/files/2015/02/global_350283322.png)

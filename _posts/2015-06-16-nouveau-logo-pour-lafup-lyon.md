@@ -11,7 +11,7 @@ categories:
 ---
 Lors du PHPTour 2015 au Luxembourg, [l&rsquo;AFUP a dévoilé son nouveau logo](http://afup.org/pages/site/?route=actualites/902/lafup-se-refait-une-beaute). C&rsquo;est maintenant au tour de l&rsquo;AFUP Lyon de présenter sa nouvelle identité graphique. Voici le nouveau logo de l&rsquo;antenne Lyonnaise :
 
-<img class="aligncenter size-medium wp-image-1238" src="http://lyon.afup.org/files/2015/06/logo_afup-300x300.png" alt="logo_afup" width="300" height="300" srcset="https://lyon.afup.org/files/2015/06/logo_afup-300x300.png 300w, https://lyon.afup.org/files/2015/06/logo_afup-150x150.png 150w, https://lyon.afup.org/files/2015/06/logo_afup.png 600w" sizes="(max-width: 300px) 100vw, 300px" /> 
+![](/files/2015/06/logo_afup-300x300.png)
 
 Un grand merci à Julien ([Woecifaun](https://twitter.com/Woecifaun)) qui nous a concocté ce logo.
 

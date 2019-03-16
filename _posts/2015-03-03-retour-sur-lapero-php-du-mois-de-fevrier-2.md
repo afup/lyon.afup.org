@@ -15,21 +15,10 @@ Pendant celui-ci,  Pascal Martin nous a présenté les derniers échanges de la
 
 Il nous a également présenté quelques-unes des nouveautés de PHP7, ainsi que la mailing list internal des membres de l&rsquo;afup.
 
-<div id='gallery-11' class='gallery galleryid-977 gallery-columns-2 gallery-size-thumbnail'>
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2015/03/03/retour-sur-lapero-php-du-mois-de-fevrier-2/img_0328/'><img width="150" height="150" src="http://lyon.afup.org/files/2015/03/IMG_0328-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" srcset="https://lyon.afup.org/files/2015/03/IMG_0328-150x150.jpg 150w, https://lyon.afup.org/files/2015/03/IMG_0328-300x300.jpg 300w, https://lyon.afup.org/files/2015/03/IMG_0328.jpg 1024w" sizes="(max-width: 150px) 100vw, 150px" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2015/03/03/retour-sur-lapero-php-du-mois-de-fevrier-2/img_0329/'><img width="150" height="150" src="http://lyon.afup.org/files/2015/03/IMG_0329-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-</div>
+![](/files/2015/03/IMG_0328-150x150.jpg)
+
+![](/files/2015/03/IMG_0329-150x150.jpg)
+
 
 Vous pouvez retrouver ses slides ainsi que les notes de présentation à cette adresse :
 

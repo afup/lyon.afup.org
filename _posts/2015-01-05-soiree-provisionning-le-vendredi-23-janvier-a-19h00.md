@@ -26,5 +26,3 @@ Cette présentation théorique **sera suivie le lendemain d&rsquo;une matinée d
 L&rsquo;atelier aura lieu à la Cordée Opéra entre 9h30 et 12h00 le samedi 24 janvier (4 quai Jean Moulin 69001 Lyon).
 
 Vous pouvez vous inscrire à l&rsquo;atelier [sur cette page](http://lyon-atelier-provisionning.eventbrite.fr) (merci de ne vous inscrire qu&rsquo;à un seul des ateliers). Vous devrez apporter votre portable avec [Vagrant](https://www.vagrantup.com/) d&rsquo;installé (plus d&rsquo;informations vous seront communiqués à ce propos après votre inscription)
-
-&nbsp;

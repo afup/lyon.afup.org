@@ -21,4 +21,4 @@ En espérant vous y retrouver nombreux.
 
 PS : il est encore temps de s&rsquo;inscrire pour venir à la [conférence et/ou à atelier sur le provisionning](//lyon.afup.org/2015/01/05/soiree-provisionning-le-vendredi-23-janvier-a-19h00//)
 
-[<img class="aligncenter size-medium wp-image-845" src="http://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw-225x300.jpg" alt="Bl10fnCIgAAcGPw" width="225" height="300" srcset="https://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw-225x300.jpg 225w, https://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw.jpg 600w" sizes="(max-width: 225px) 100vw, 225px" />](http://lyon.afup.org/files/2014/10/Bl10fnCIgAAcGPw.jpg)
+![](/files/2014/10/Bl10fnCIgAAcGPw.jpg)
