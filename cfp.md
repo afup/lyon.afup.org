@@ -5,6 +5,7 @@ date: 2016-11-16T12:49:33+00:00
 author: Adrien Gallou
 layout: page
 guid: http://lyon.afup.org/?page_id=1556
+permalink: /cfp/
 has_subheader: true
 ---
 
