@@ -9,6 +9,7 @@ meetup_url: "https://www.meetup.com/fr-FR/afup-lyon-php/"
 permalink: /posts/:title
 
 ga_ua: "UA-33922307-6"
+home_featured_articles_count: 2
 
 subheader:
   - label: Appel à speakers
