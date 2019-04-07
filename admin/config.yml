@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: afup/lyon.afup.org
+  site_domain: nervous-babbage-12df65.netlify.com
 
 publish_mode: editorial_workflow
 logo_url: "/files/theme/logo_simple.png"
