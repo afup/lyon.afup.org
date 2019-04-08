@@ -2,7 +2,7 @@
 title: 'Conférence review apps, NLP et documentation le 29 avril 2019 mars à 19h'
 date: 2019-04-09T09:00:00+00:00
 layout: post
-permalink: /2019/04/29/conference-reviewapp-nlp-documentation-2019-29-avril-a-19h/
+permalink: /2019/04/09/conference-reviewapp-nlp-documentation-2019-29-avril-a-19h/
 categories:
   - Conférence
 ---
