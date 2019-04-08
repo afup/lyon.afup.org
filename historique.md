@@ -12,8 +12,9 @@ has_subheader: true
 
 ## 2019
 
-  * 14 mars: Super Apéro : annonce
-  * 27 février: Conférence courtes : [annonce](http://lyon.afup.org/2019/02/19/soiree-de-lightning-talks-le-mercredi-27-fevrier-a-19h/)
+  * 29 avril : Conférence review apps, NLP et documentation : [annonce](https://lyon.afup.org/2019/04/29/conference-reviewapp-nlp-documentation-2019-29-avril-a-19h/)
+  * 14 mars : Super Apéro : [annonce](https://lyon.afup.org/2019/02/27/super-apero-php-2019-14-mars-a-19h/)
+  * 27 février : Conférence courtes : [annonce](http://lyon.afup.org/2019/02/19/soiree-de-lightning-talks-le-mercredi-27-fevrier-a-19h/)
   * 29 janvier : apéro PHP : [annonce](http://lyon.afup.org/2019/01/13/apero-php-mardi-29-janvier-a-19h/)
 
 ## 2018
