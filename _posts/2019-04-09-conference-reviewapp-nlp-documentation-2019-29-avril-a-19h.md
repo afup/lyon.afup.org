@@ -7,15 +7,15 @@ categories:
   - Conférence
 ---
 
-Le lundi 29 avril, l'AFUP Lyon organise la dernière soirée de conférence avant l’AFUP Day 2019. 
+Le lundi 29 avril, l'AFUP Lyon organise la dernière soirée de conférences avant l’AFUP Day 2019. 
 
-Nous aurons trois interventions et cette soirée se tiendra à l’école Le 101, dans le quartier de confluence (Lyon 2).
+Nous aurons trois interventions ! Rendez-vous à l’école Le 101, dans le quartier de confluence (Lyon 2).
 
-Tout d’abord, Julien Villetorte va nous parler de review apps, pour tester encore plus tôt, ensuite Benjamin Ray nous fait une introduction au NLP en PHP et enfin Jean-Baptiste Nahan va nous démystifier la documentation de PHP et sa traduction française.
+Tout d’abord, Julien Villetorte nous parlera de review apps, pour tester encore plus tôt. Benjamin Ray enchainera avec une introduction au NLP en PHP. Enfin, Jean-Baptiste Nahan démystifiera la documentation de PHP et sa traduction française.
 
-Cette soirée aura lieu à l&rsquo;école [Le 101, au <span class="section-info-text">Campus Région du Numérique, 11 Passage Panama </span> 69002 Lyon](https://goo.gl/maps/fdUqEotsZhD2), le lundi 29 avril à 19h00. Cette soirée est gratuite, ouverte à toutes et à tous dans le respect du [code de conduite](https://afup.org/p/986-code-de-conduite) de l&rsquo;AFUP.
+Cette soirée aura lieu à l’école [Le 101, au <span class="section-info-text">Campus Région du Numérique, 11 Passage Panama </span> 69002 Lyon](https://goo.gl/maps/fdUqEotsZhD2), le lundi 29 avril à 19h00. Elle est gratuite, ouverte à toutes et à tous dans le respect du [code de conduite](https://afup.org/p/986-code-de-conduite) de l&rsquo;AFUP.
 
-Et surtout pour remercier les conférencier.e.s n&rsquo;hésitez pas à leurs faire part de vos retours !
+Et surtout pour remercier les conférenciers, n’hésitez pas à leur faire part de vos retours !
 
 N’hésitez pas à nous rejoindre : pour cela, merci de [vous inscrire](https://www.meetup.com/fr-FR/afup-lyon-php/events/260445082/).
 
