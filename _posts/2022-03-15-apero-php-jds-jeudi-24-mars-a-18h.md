@@ -1,8 +1,8 @@
 ---
-title: 'Apéro PHP & Jeux de société &#8211; White Rabbit &#8211; Jeudi 24 mars 2022 à 19h'
+title: 'Apéro PHP & Jeux de société &#8211; White Rabbit &#8211; Jeudi 24 mars 2022 à 18h'
 date: 2022-03-15T14:00:00+00:00
 layout: post
-permalink: /2022/03/15/apero-php-jeux-24-mars-a-19h/
+permalink: /2022/03/15/apero-php-jeux-24-mars-a-18h/
 categories:
   - AperoPHP
 ---
