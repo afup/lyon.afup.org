@@ -15,6 +15,8 @@ _À la recherche du temps perdu - Jérôme Vieilledent - [@jvieilledent](https:/
 Valeur absolue ou relative ? Corrélation ou causalité ? Que nous dit réellement le temps sur nos applications, sur notre environnement ?
 Au-travers de cette présentation, je tenterai de mettre cette notion en perspective, notamment au regard de la physique, mais également de son aspect symbolique, afin de mieux comprendre les enjeux liés à la performance, et ainsi (re)devenir Maître du Temps. &raquo;
 
+![](/files/2022/05/IMG_0130.jpg)
+
 Les [slides commentés de Jérôme sont disponibles ici](https://docs.google.com/presentation/d/1vMr7J9QVew1eZtSDZvSCSlTtsziWmH-Y8K-yXJFmBS0/edit#slide=id.g120b094d609_0_1).
 
 L’occasion pour une trentaine de lyonnais.e.s n’ayant eu la chance de partir pour l’Afup Day de Lille de se retrouver et d’échanger ensuite autour de boissons et pizzas. 
