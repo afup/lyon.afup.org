@@ -10,6 +10,20 @@ has_subheader: true
 
 # Historique
 
+## 2022
+
+  * 19 mai : Conférence: "À la recherche du temps perdu" : [retour](https://lyon.afup.org/2022/05/23/retour-sur-la-conference-a-la-recherche-du-temps-perdu-19-mai/)
+  * 24 mars : Apéro PHP & Jeux de société au White Rabbit : [annonce](https://lyon.afup.org/2022/03/15/apero-php-jeux-24-mars-a-18h/)
+  * 24 févier : Conférence: "Synchroniser ses applications plus rapidement avec du low-code" : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/283918505/)
+
+## 2021
+
+  * 13 octobre : Conférences: Avant première du Forum PHP 2021 : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/281024372/)
+  * 24 juin : Conférence: "pyramide des tests" et élection des représentants : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/278622396/)
+  * 22 avril : Conférences: "LTB Self Service Password" et "Should I stay or should I go?..." : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/277449790/)
+  * 25 mars : Conférence "Un junior parmi des seniors" et super apéro PHP : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/276760747/)
+  * 25 février : Conférences: "Introduction à Rust.." et "Dataflow, gérer vos flux de données.." : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/276151257/)
+
 ## 2019
 
   * 29 avril : Conférence review apps, NLP et documentation : [annonce](https://lyon.afup.org/2019/04/09/conference-reviewapp-nlp-documentation-2019-29-avril-a-19h/)
