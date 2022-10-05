@@ -12,17 +12,21 @@ has_subheader: true
 
 ## 2022
 
-  * 19 mai : Conférence: "À la recherche du temps perdu" : [retour](https://lyon.afup.org/2022/05/23/retour-sur-la-conference-a-la-recherche-du-temps-perdu-19-mai/)
+  * 5 octobre : Conférences en avant-première du forum PHP 2022 : [annonce](https://lyon.afup.org/2022/10/05/conferences-en-avant-premiere-forum-php-2022-5-octobre/)
+  * 20 septembre : Apéro PHP de rentrée : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/288326601/)
+  * 23 juin : Super apéro 2022 et élections au White rabbit : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/286490200/)
+  * 9 juin : Conférences Duchess & AFUP Lyon : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/286177981/)
+  * 19 mai : Conférence : "À la recherche du temps perdu" : [retour](https://lyon.afup.org/2022/05/23/retour-sur-la-conference-a-la-recherche-du-temps-perdu-19-mai/)
   * 24 mars : Apéro PHP & Jeux de société au White Rabbit : [annonce](https://lyon.afup.org/2022/03/15/apero-php-jeux-24-mars-a-18h/)
-  * 24 févier : Conférence: "Synchroniser ses applications plus rapidement avec du low-code" : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/283918505/)
+  * 24 février : Conférence : "Synchroniser ses applications plus rapidement avec du low-code" : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/283918505/)
 
 ## 2021
 
-  * 13 octobre : Conférences: Avant première du Forum PHP 2021 : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/281024372/)
-  * 24 juin : Conférence: "pyramide des tests" et élection des représentants : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/278622396/)
-  * 22 avril : Conférences: "LTB Self Service Password" et "Should I stay or should I go?..." : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/277449790/)
+  * 13 octobre : Conférences : Avant première du Forum PHP 2021 : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/281024372/)
+  * 24 juin : Conférence : "pyramide des tests" et élection des représentants : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/278622396/)
+  * 22 avril : Conférences : "LTB Self Service Password" et "Should I stay or should I go?..." : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/277449790/)
   * 25 mars : Conférence "Un junior parmi des seniors" et super apéro PHP : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/276760747/)
-  * 25 février : Conférences: "Introduction à Rust.." et "Dataflow, gérer vos flux de données.." : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/276151257/)
+  * 25 février : Conférences : "Introduction à Rust.." et "Dataflow, gérer vos flux de données.." : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/276151257/)
 
 ## 2019
 
