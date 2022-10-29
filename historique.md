@@ -12,6 +12,7 @@ has_subheader: true
 
 ## 2022
 
+  * 8 novembre : Conférences "Faire du Behat en 2022" & "Allumer le feu" : [annonce](https://lyon.afup.org/2022/10/29/conferences-behat-en-2022-et-allumer-le-feu-8-novembre/)
   * 5 octobre : Conférences en avant-première du forum PHP 2022 : [annonce](https://lyon.afup.org/2022/10/05/conferences-en-avant-premiere-forum-php-2022-5-octobre/)
   * 20 septembre : Apéro PHP de rentrée : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/288326601/)
   * 23 juin : Super apéro 2022 et élections au White rabbit : [meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/286490200/)
