@@ -27,9 +27,7 @@ lors de l'Afup Day est un très bon exercice :-)
 ## ...la billetterie aussi !
 
 Pour participer à cette aventure, rien de plus simple. [La billetterie est disponible](https://afup.org/event/afupday2023lyon/tickets) 
-dès maintenant et vous propose les tarifs Early Birds à 65€ seulement pour la journée complète. 
-Ce tarif réduit est réservé aux 30 premiers inscrits durant quelques jours ! Viendra ensuite le tarif de 
-croisière à 85€ dès que le programme sera publié.
+dès maintenant et vous propose le tarif Early Birds réservé aux 30 premiers inscrits. Et les premiers tickets partent vite !
 
 En attendant, nous vous laissons vous remettre de ce magnifique Forum PHP 2022 pour les chanceux qui 
 ont pu s'y rendre, et nous nous retrouverons lors de nos prochains meetups !
