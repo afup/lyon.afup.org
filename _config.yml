@@ -12,15 +12,15 @@ ga_ua: "UA-33922307-6"
 home_featured_articles_count: 2
 
 subheader:
+  - label: AFUP DAY 2023
+    url: "https://event.afup.org"
+    icon: calendar
   - label: Appel à speakers
     url: "/cfp"
     icon: bullhorn
   - label: "Historique"
     url: "/historique"
     icon: landmark
-  - label: "Newsletter"
-    url: "http://eepurl.com/bkOykX"
-    icon: "envelope"
 
 markdown: kramdown
 theme: minima
