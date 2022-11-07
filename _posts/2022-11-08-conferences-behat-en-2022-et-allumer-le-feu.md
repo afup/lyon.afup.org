@@ -13,7 +13,7 @@ Votre antenne locale vous propose une nouvelle soirée de conférences le **mard
 Les conférences du jour :
 
 * **Faire du Behat en 2022 - Alexandre BALMES** - [@pockystar](https://twitter.com/pockystar)
-* **Allumer le feu ! - Frédéric HARDY** - [@HARDY_Fred](https://twitter.com/HARDY_Fred)
+* **Allumer le feu ! - Frédéric HARDY** - [@mageekguy](https://twitter.com/mageekguy)
 
 Nous évoquerons également l'organisation de l'[**AFUP Day 2023 à Lyon**](https://event.afup.org/afup-day-2023-lyon/) et répondrons à toutes vos questions concernant [l'appel à conférencier&middot;e&middot;s](https://afup.org/event/afupday2023lyon) !
 
