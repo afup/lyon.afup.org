@@ -1,0 +1,41 @@
+{% extends "_layout.html.twig" %}
+
+{% block main %}
+
+    <main class="container mx-auto max-w-96 sm:max-w-none">
+        <div class="px-5 pt-20 pb-10">
+            <img src="/img/logo_text.png"
+                 class="mx-auto sm:max-w-3xl drop-shadow-lg"
+                 alt="Logo de l'antenne AFUP {{ config.antenne }}"/>
+        </div>
+
+        <div class="text-white text-center pb-5 sm:pb-10 text-lg sm:text-2xl">
+            <a href="https://afup.org" class="hover:underline">afup.org</a>
+            <span class="px-5">|</span>
+            <a href="https://afup.org/association/devenir-membre" class="hover:underline">Devenir membre</a>
+        </div>
+
+        <div class="mx-auto sm:max-w-96">
+            {% for link in config.links.top %}
+                {% include 'components/link.html.twig' %}
+            {% endfor %}
+
+            {% if config.links.bottom %}
+
+                <hr class="border-t-white mx-32"/>
+
+                {% for link in config.links.bottom %}
+                    {% include 'components/link.html.twig' %}
+                {% endfor %}
+
+            {% endif %}
+        </div>
+    </main>
+
+    {% if config.repository %}
+        <footer class="mt-auto pb-4 pl-5 text-slate-50 text-xs sm:text-sm hover:underline">
+            <a href="{{ config.repository }}"><i class="fa-brands fa-github"></i> GitHub</a>
+        </footer>
+    {% endif %}
+
+{% endblock %}

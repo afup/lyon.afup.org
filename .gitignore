@@ -1,0 +1,9 @@
+public/app.css
+public/webfonts/
+public/img/logo_simple.png
+public/img/logo_text.png
+
+build/
+
+vendor/
+node_modules/

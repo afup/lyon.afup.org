@@ -1,0 +1,37 @@
+<!doctype html>
+<html class="min-h-full" lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AFUP {{ config.antenne }}</title>
+    <meta name="description" content="Antenne AFUP {{ config.antenne }}">
+
+    <link href="/app.css" rel="stylesheet">
+    <link rel="icon" href="/img/logo_simple.png" sizes="192x192"/>
+
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://{{ config.domain }}">
+    <meta property="og:title" content="AFUP {{ config.antenne }}">
+    <meta property="og:description" content="Site de l'antenne AFUP {{ config.antenne }}">
+    <meta property="og:site_name" content="AFUP {{ config.antenne }}">
+
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:url" content="https://{{ config.domain }}">
+    <meta name="twitter:title" content="AFUP {{ config.antenne }}">
+    <meta name="twitter:description" content="Site de l'antenne AFUP {{ config.antenne }}">
+</head>
+<body>
+
+<div style="background-image: url('/img/bg.png')">
+
+    <div class="min-h-screen flex flex-col backdrop-blur-sm">
+
+        {% block main %}{% endblock %}
+
+    </div>
+
+</div>
+
+</body>
+</html>

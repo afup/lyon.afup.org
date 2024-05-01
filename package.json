@@ -1,0 +1,19 @@
+{
+  "name": "afup-antenne",
+  "version": "1.0.0",
+  "description": "Site d'antenne de l'AFUP",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.2"
+  },
+  "engines": {
+    "node": ">=20.0"
+  },
+  "scripts": {
+    "watch": "concurrently \"make css\" \"make serve\" --names \"watch,serve\" --prefix name --kill-others"
+  }
+}
