@@ -1,5 +1,0 @@
-version: "2.1"
-services:
-  blog:
-    ports:
-      - "40003:4000"

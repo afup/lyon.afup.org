@@ -1,5 +1,9 @@
-/_site
-/.sass-cache
-/.jekyll-metadata
-/docker-compose.override.yml
-/_config_dev.yml
+public/app.css
+public/webfonts/
+public/img/logo_simple.png
+public/img/logo_text.png
+
+build/
+
+vendor/
+node_modules/
