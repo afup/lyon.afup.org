@@ -12,12 +12,6 @@ ga_ua: "G-KRC2L7ZCZC"
 home_featured_articles_count: 2
 
 subheader:
-  - label: AFUP DAY 2026
-    url: "https://event.afup.org"
-    icon: calendar
-  - label: Appel à speakers
-    url: "/cfp"
-    icon: bullhorn
   - label: "Historique"
     url: "/historique"
     icon: landmark
