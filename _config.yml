@@ -8,7 +8,6 @@ meetup_url: "https://www.meetup.com/fr-FR/afup-lyon-php/"
 
 permalink: /posts/:title
 
-ga_ua: "G-KRC2L7ZCZC"
 home_featured_articles_count: 2
 
 subheader:
@@ -31,4 +30,3 @@ exclude:
 
 feed:
   path: feed
-
