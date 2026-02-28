@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéroPHP du mois de juillet'
 date: 2013-07-29T12:11:59+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=483
+guid: /archives/?p=483
 permalink: /2013/07/29/retour-sur-laperophp-du-mois-de-juillet/
 categories:
   - AperoPHP

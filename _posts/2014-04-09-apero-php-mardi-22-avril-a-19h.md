@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; mardi 22 avril à 19h'
 date: 2014-04-09T09:30:19+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=744
+guid: /archives/?p=744
 permalink: /2014/04/09/apero-php-mardi-22-avril-a-19h/
 categories:
   - AperoPHP
@@ -31,6 +31,6 @@ categories:
   </p>
   
   <p>
-    PS : jeudi 10 avril aura lieu une <a href="http://lyon.afup.org/2014/03/24/conference-sur-mysql-le-jeudi-10-avril-a-18h30/">conférence à propos de MySQL</a>, n&rsquo;hésitez à vous y <a href="http://lyon.afup.org/2014/03/24/conference-sur-mysql-le-jeudi-10-avril-a-18h30/">inscrire</a>.
+    PS : jeudi 10 avril aura lieu une <a href="/archives/2014/03/24/conference-sur-mysql-le-jeudi-10-avril-a-18h30/">conférence à propos de MySQL</a>, n&rsquo;hésitez à vous y <a href="/archives/2014/03/24/conference-sur-mysql-le-jeudi-10-avril-a-18h30/">inscrire</a>.
   </p>
 </div>

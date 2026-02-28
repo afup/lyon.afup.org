@@ -4,7 +4,7 @@ title: Soirée de Lightning Talks le mercredi 27 février à 19h
 date: 2019-02-19T08:49:40+00:00
 author: srogier
 layout: post
-guid: http://lyon.afup.org/?p=1971
+guid: /archives/?p=1971
 permalink: /2019/02/19/soiree-de-lightning-talks-le-mercredi-27-fevrier-a-19h/
 categories:
   - Non classé

@@ -4,7 +4,7 @@ title: 'Super apéro PHP 2018 &#8211; 8 mars à 19h'
 date: 2018-02-13T19:18:10+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1863
+guid: /archives/?p=1863
 permalink: /2018/02/13/super-apero-php-2018-8-mars-a-19h/
 categories:
   - AperoPHP

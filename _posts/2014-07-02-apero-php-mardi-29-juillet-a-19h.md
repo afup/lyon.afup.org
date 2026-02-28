@@ -4,7 +4,7 @@ title: Apéro PHP – mardi 29 juillet à 19h
 date: 2014-07-02T12:51:43+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=790
+guid: /archives/?p=790
 permalink: /2014/07/02/apero-php-mardi-29-juillet-a-19h/
 categories:
   - AperoPHP
@@ -19,4 +19,4 @@ Les apéros PHP sont ouverts à tous, quel que soit le niveau, le but est de ren
 
 Au plaisir de vous y retrouver en fin de mois.
 
-PS : aficionados de Symfony, n&rsquo;hésitez pas à vous inscrire au [Hack Day](http://lyon.afup.org/2014/06/24/hack-day-symfony/) qui aura lieu le samedi 5 juillet, pour améliorer ensemble l&rsquo;expérience développeur de Symfony
+PS : aficionados de Symfony, n&rsquo;hésitez pas à vous inscrire au [Hack Day](/archives/2014/06/24/hack-day-symfony/) qui aura lieu le samedi 5 juillet, pour améliorer ensemble l&rsquo;expérience développeur de Symfony

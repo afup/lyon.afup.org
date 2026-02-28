@@ -4,12 +4,12 @@ title: 2nd réunion de préparation à la candidature lyonnaise pour le PHPTour 
 date: 2012-11-21T21:31:29+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=188
+guid: /archives/?p=188
 permalink: /2012/11/21/2nd-reunion-de-preparation-a-la-candidature-lyonnaise-pour-le-phptour-2013/
 categories:
   - PHPTour
 ---
-Depuis la [première réunion](http://lyon.afup.org/2012/10/02/candidature-lyonnaise-au-phptour-2013/), les personnes s&rsquo;étant impliquées dans le dossier de candidature de l&rsquo;AFUP Lyon pour accueillir le PHPTour 2013 ont fait beaucoup de travail.
+Depuis la [première réunion](/archives/2012/10/02/candidature-lyonnaise-au-phptour-2013/), les personnes s&rsquo;étant impliquées dans le dossier de candidature de l&rsquo;AFUP Lyon pour accueillir le PHPTour 2013 ont fait beaucoup de travail.
 
 Il est désormais temps pour nous de se retrouver physiquement à nouveau pour faire le point et discuter des prochaines actions.
 

@@ -4,7 +4,7 @@ title: Conférence sur Blackfire, le 4 mars à 19h
 date: 2015-02-09T10:51:23+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=887
+guid: /archives/?p=887
 permalink: /2015/02/09/conference-sur-blackfire-le-4-mars-a-19h/
 categories:
   - Conférence
@@ -24,6 +24,6 @@ La conférence aura lieu le mercredi 4 mars, à 19h, dans les locaux d’Epitech
 
 Si vous voulez vous joindre à nous, n’oubliez pas de [vous inscrire](https://afup-lyon-blackfire.eventbrite.fr).
 
-Si vous voulez diffuser l’annonce dans votre société, à la maison, dans la rue, nous vous mettons à disposition [le flyer de cette conférence](http://lyon.afup.org/files/2015/02/flyer.pdf).
+Si vous voulez diffuser l’annonce dans votre société, à la maison, dans la rue, nous vous mettons à disposition [le flyer de cette conférence](/archives/files/2015/02/flyer.pdf).
 
 PS : à la fin de la soirée un pot sera offert par SensioLabs, ce qui permettra, entre-autres, de rester discuter de la présentation avec Nicolas Grekas.

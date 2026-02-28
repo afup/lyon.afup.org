@@ -4,7 +4,7 @@ title: 'DDD-Day &#8211; samedi 30 janvier, de 9h à 16h30'
 date: 2016-01-26T13:02:38+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1335
+guid: /archives/?p=1335
 permalink: /2016/01/26/ddd-day-samedi-30-janvier-de-9h-a-16h30/
 categories:
   - Conférence

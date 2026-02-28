@@ -4,7 +4,7 @@ title: Conférences courtes le 13 décembre à 19h
 date: 2017-12-06T18:07:16+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1846
+guid: /archives/?p=1846
 permalink: /2017/12/06/conferences-courtes-le-13-decembre-a-19h/
 categories:
   - Conférence

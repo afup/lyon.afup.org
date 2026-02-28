@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro de mars'
 date: 2013-03-30T16:30:22+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=282
+guid: /archives/?p=282
 permalink: /2013/03/30/retour-sur-lapero-de-mars/
 categories:
   - AperoPHP
@@ -20,19 +20,19 @@ Ensuite, après avoir tiré au sort le gagnant d&rsquo;un éléPHPant, l&rsquo;a
 <div id='gallery-2' class='gallery galleryid-282 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-1/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/03/Apéro-Mars-Photo-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-1/'><img width="150" height="150" src="/archives/files/2013/03/Apéro-Mars-Photo-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-2/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/03/Apéro-Mars-Photo-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-2/'><img width="150" height="150" src="/archives/files/2013/03/Apéro-Mars-Photo-2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-3/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/03/Apéro-Mars-Photo-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-3/'><img width="150" height="150" src="/archives/files/2013/03/Apéro-Mars-Photo-3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
@@ -40,13 +40,13 @@ Ensuite, après avoir tiré au sort le gagnant d&rsquo;un éléPHPant, l&rsquo;a
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-4/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/03/Apéro-Mars-Photo-4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-4/'><img width="150" height="150" src="/archives/files/2013/03/Apéro-Mars-Photo-4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-5/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/03/Apéro-Mars-Photo-5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/03/30/retour-sur-lapero-de-mars/apero-mars-photo-5/'><img width="150" height="150" src="/archives/files/2013/03/Apéro-Mars-Photo-5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   

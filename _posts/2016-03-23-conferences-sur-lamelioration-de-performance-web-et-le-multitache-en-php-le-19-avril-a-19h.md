@@ -4,7 +4,7 @@ title: 'Conférences sur l&rsquo;amélioration de performance web, et le multit�
 date: 2016-03-23T13:14:24+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1389
+guid: /archives/?p=1389
 permalink: /2016/03/23/conferences-sur-lamelioration-de-performance-web-et-le-multitache-en-php-le-19-avril-a-19h/
 categories:
   - Conférence

@@ -4,7 +4,7 @@ title: 'Retour sur le Banquet du Web #2'
 date: 2013-05-27T08:00:52+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=428
+guid: /archives/?p=428
 permalink: /2013/05/27/retour-sur-le-banquet-du-web-2/
 categories:
   - Non classé
@@ -16,19 +16,19 @@ L&rsquo;AFUP Lyon était présente au <a href="http://www.lacuisineduweb.com/la-
 <div id='gallery-5' class='gallery galleryid-428 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://lyon.afup.org/standafupcuisineduweb/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/StandAfupCuisineDuWeb-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/standafupcuisineduweb/'><img width="150" height="150" src="/archives/files/2013/05/StandAfupCuisineDuWeb-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://lyon.afup.org/standafupcuisineduweb2/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/StandAfupCuisineDuWeb2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/standafupcuisineduweb2/'><img width="150" height="150" src="/archives/files/2013/05/StandAfupCuisineDuWeb2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/standafupcuisineduweb3/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/StandAfupCuisineDuWeb3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/standafupcuisineduweb3/'><img width="150" height="150" src="/archives/files/2013/05/StandAfupCuisineDuWeb3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
@@ -40,13 +40,13 @@ Nous tenons à féliciter la cuisine du web pour l&rsquo;organisation de cette s
 <div id='gallery-6' class='gallery galleryid-428 gallery-columns-3 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/teamafupcuisineduweb/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/TeamAfupCuisineDuWeb-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/teamafupcuisineduweb/'><img width="150" height="150" src="/archives/files/2013/05/TeamAfupCuisineDuWeb-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/teamafupcuisineduweb2/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/TeamAfupCuisineDuWeb2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/teamafupcuisineduweb2/'><img width="150" height="150" src="/archives/files/2013/05/TeamAfupCuisineDuWeb2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   

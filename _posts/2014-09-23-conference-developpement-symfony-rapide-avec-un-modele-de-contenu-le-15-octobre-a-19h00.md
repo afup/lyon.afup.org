@@ -4,7 +4,7 @@ title: Conférence développement Symfony rapide avec un modèle de contenu, le 
 date: 2014-09-23T09:15:49+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=833
+guid: /archives/?p=833
 permalink: /2014/09/23/conference-developpement-symfony-rapide-avec-un-modele-de-contenu-le-15-octobre-a-19h00/
 categories:
   - Conférence

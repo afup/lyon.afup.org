@@ -4,7 +4,7 @@ title: Candidature lyonnaise au PHPTour 2013
 date: 2012-10-02T12:48:41+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=72
+guid: /archives/?p=72
 permalink: /2012/10/02/candidature-lyonnaise-au-phptour-2013/
 categories:
   - PHPTour
@@ -21,7 +21,7 @@ Il est désormais temps pour l&rsquo;AFUP Lyon de reprendre le temps de prépare
 
 Dans cette optique, je vous propose un premier rendez-vous le **lundi 15 octobre** à 19h30 au Ninkasi Sans-Soucis, au 26 cours Albert Thomas 69008 LYON.
 
-[<img src="http://lyon.afup.org/files/2012/10/Uncle-Sam-I-need-you-228x300.jpg" alt="&quot;I need you&quot; by uncle sam" width="228" height="300" class="aligncenter size-medium wp-image-74" srcset="https://lyon.afup.org/files/2012/10/Uncle-Sam-I-need-you-228x300.jpg 228w, https://lyon.afup.org/files/2012/10/Uncle-Sam-I-need-you.jpg 234w" sizes="(max-width: 228px) 100vw, 228px" />](http://lyon.afup.org/files/2012/10/Uncle-Sam-I-need-you.jpg)
+[<img src="/archives/files/2012/10/Uncle-Sam-I-need-you-228x300.jpg" alt="&quot;I need you&quot; by uncle sam" width="228" height="300" class="aligncenter size-medium wp-image-74" srcset="/archives/files/2012/10/Uncle-Sam-I-need-you-228x300.jpg 228w, /archives/files/2012/10/Uncle-Sam-I-need-you.jpg 234w" sizes="(max-width: 228px) 100vw, 228px" />](/archives/files/2012/10/Uncle-Sam-I-need-you.jpg)
 
 **Mise à jour (03/10/2012)**  
 Suite à des problèmes d&rsquo;organisation, la date est déplacée au du jeudi 11 octobre au **lundi 15 octobre**, même heure, même endroit

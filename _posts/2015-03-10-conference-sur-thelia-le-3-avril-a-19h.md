@@ -4,7 +4,7 @@ title: Conférence sur Thelia, le 3 avril à 19h
 date: 2015-03-10T12:57:28+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=995
+guid: /archives/?p=995
 permalink: /2015/03/10/conference-sur-thelia-le-3-avril-a-19h/
 categories:
   - Conférence

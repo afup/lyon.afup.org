@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro PHP du mois de février'
 date: 2015-03-03T13:07:46+00:00
 author: Benoît Lévêque
 layout: post
-guid: http://lyon.afup.org/?p=977
+guid: /archives/?p=977
 permalink: /2015/03/03/retour-sur-lapero-php-du-mois-de-fevrier-2/
 categories:
   - AperoPHP
@@ -56,4 +56,4 @@ Pour finir voici quelques retours sur la soirée de mercredi :
 
 
 
-PS : vous pouvez toujours vous inscrire à la [conférence sur Blackfire](http://lyon.afup.org/2015/02/09/conference-sur-blackfire-le-4-mars-a-19h/) qui aura lieu le mercredi 4 mars
+PS : vous pouvez toujours vous inscrire à la [conférence sur Blackfire](/archives/2015/02/09/conference-sur-blackfire-le-4-mars-a-19h/) qui aura lieu le mercredi 4 mars

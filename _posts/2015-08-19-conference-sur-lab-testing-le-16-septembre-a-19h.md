@@ -4,7 +4,7 @@ title: 'Conférence sur l&rsquo;A/B Testing, le 16 septembre à 19h'
 date: 2015-08-19T08:10:23+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1259
+guid: /archives/?p=1259
 permalink: /2015/08/19/conference-sur-lab-testing-le-16-septembre-a-19h/
 categories:
   - Conférence

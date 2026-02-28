@@ -4,7 +4,7 @@ title: 'Conférence &laquo;&nbsp;ezPublish et Symfony&nbsp;&raquo; le 12 juin 20
 date: 2013-05-13T08:33:31+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=378
+guid: /archives/?p=378
 permalink: /2013/05/13/conference-ezpublish-et-symfony-le-12-juin-2013-a-19h30/
 categories:
   - Conférence
@@ -20,4 +20,4 @@ La conférence aura lieu dans les locaux d&rsquo;[Epitech](http://www.epitech.eu
 Si vous voulez vous joindre à nous, n&rsquo;oubliez pas de [vous inscrire](http://afup-lyon-ezpublish.eventbrite.fr/)
 
 **_EDIT :_**  
-Si vous voulez diffuser l&rsquo;annonce dans votre société, à la maison, dans la rue, nous vous mettons à disposition le [flyers](http://lyon.afup.org/files/2013/05/conf_ezpublish.pdf) de cette conférence
+Si vous voulez diffuser l&rsquo;annonce dans votre société, à la maison, dans la rue, nous vous mettons à disposition le [flyers](/archives/files/2013/05/conf_ezpublish.pdf) de cette conférence

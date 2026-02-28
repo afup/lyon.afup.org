@@ -4,7 +4,7 @@ title: AperoPHP – Jeudi 28 mars à 19h
 date: 2013-03-13T09:32:25+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=273
+guid: /archives/?p=273
 permalink: /2013/03/13/aperophp-jeudi-28-mars-a-19h/
 categories:
   - AperoPHP

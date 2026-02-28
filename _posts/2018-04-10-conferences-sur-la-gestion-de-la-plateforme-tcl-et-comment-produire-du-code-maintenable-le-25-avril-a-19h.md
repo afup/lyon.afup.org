@@ -4,7 +4,7 @@ title: Conférences sur la gestion de la plateforme TCL et comment produire du c
 date: 2018-04-10T11:57:41+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1874
+guid: /archives/?p=1874
 permalink: /2018/04/10/conferences-sur-la-gestion-de-la-plateforme-tcl-et-comment-produire-du-code-maintenable-le-25-avril-a-19h/
 categories:
   - Conférence

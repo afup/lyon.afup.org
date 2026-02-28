@@ -4,7 +4,7 @@ title: 'Super apéro PHP &#8211; 9 mars à 19h'
 date: 2017-02-21T12:50:27+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1708
+guid: /archives/?p=1708
 permalink: /2017/02/21/super-apero-php-9-mars-a-19h/
 categories:
   - AperoPHP

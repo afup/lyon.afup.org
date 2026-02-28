@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro PHP du mois de février'
 date: 2014-03-03T13:50:50+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=699
+guid: /archives/?p=699
 permalink: /2014/03/03/retour-sur-lapero-php-du-mois-de-fevrier/
 categories:
   - AperoPHP
@@ -83,13 +83,13 @@ Le tout s&rsquo;est passé dans une bonne ambiance et autour d&rsquo;un verre :
 <div id='gallery-9' class='gallery galleryid-699 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2014/03/03/retour-sur-lapero-php-du-mois-de-fevrier/img_20140225_193219/'><img width="150" height="150" src="http://lyon.afup.org/files/2014/03/IMG_20140225_193219-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2014/03/03/retour-sur-lapero-php-du-mois-de-fevrier/img_20140225_193219/'><img width="150" height="150" src="/archives/files/2014/03/IMG_20140225_193219-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2014/03/03/retour-sur-lapero-php-du-mois-de-fevrier/img_20140225_192903/'><img width="150" height="150" src="http://lyon.afup.org/files/2014/03/IMG_20140225_192903-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2014/03/03/retour-sur-lapero-php-du-mois-de-fevrier/img_20140225_192903/'><img width="150" height="150" src="/archives/files/2014/03/IMG_20140225_192903-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   

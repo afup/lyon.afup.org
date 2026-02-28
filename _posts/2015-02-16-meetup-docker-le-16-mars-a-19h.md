@@ -4,7 +4,7 @@ title: Meetup docker le 16 Mars à 19h
 date: 2015-02-16T17:48:27+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=929
+guid: /archives/?p=929
 permalink: /2015/02/16/meetup-docker-le-16-mars-a-19h/
 categories:
   - Conférence

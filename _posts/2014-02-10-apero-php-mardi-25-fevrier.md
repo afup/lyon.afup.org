@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; mardi 25 février à 19h'
 date: 2014-02-10T13:39:31+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=694
+guid: /archives/?p=694
 permalink: /2014/02/10/apero-php-mardi-25-fevrier/
 categories:
   - AperoPHP

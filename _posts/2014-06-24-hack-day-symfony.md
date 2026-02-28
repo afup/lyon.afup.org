@@ -4,7 +4,7 @@ title: Hack day Symfony
 date: 2014-06-24T10:18:16+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=785
+guid: /archives/?p=785
 permalink: /2014/06/24/hack-day-symfony/
 categories:
   - Non classé

@@ -4,7 +4,7 @@ title: Apéro PHP – mercredi 25 février à 19h
 date: 2015-02-05T13:34:10+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=889
+guid: /archives/?p=889
 permalink: /2015/02/05/apero-php-mercredi-25-fevrier-a-19h/
 categories:
   - AperoPHP

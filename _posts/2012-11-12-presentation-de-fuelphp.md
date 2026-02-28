@@ -4,7 +4,7 @@ title: Présentation de FuelPHP
 date: 2012-11-12T22:45:03+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=179
+guid: /archives/?p=179
 permalink: /2012/11/12/presentation-de-fuelphp/
 categories:
   - Conférence

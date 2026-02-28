@@ -4,7 +4,7 @@ title: Apéro PHP – mardi 26 novembre à 19h
 date: 2013-11-20T13:22:50+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=675
+guid: /archives/?p=675
 permalink: /2013/11/20/apero-php-mardi-26-novembre-a-19h/
 categories:
   - AperoPHP

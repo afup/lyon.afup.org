@@ -4,7 +4,7 @@ title: Revue de code bienveillante / Bad smells le 3 avril à 19h
 date: 2017-03-14T14:15:02+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1720
+guid: /archives/?p=1720
 permalink: /2017/03/14/revue-de-code-bienveillante-bad-smells-le-3-avril-a-19h/
 categories:
   - Conférence

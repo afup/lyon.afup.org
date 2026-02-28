@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro du mois de juin'
 date: 2013-06-27T10:30:40+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=454
+guid: /archives/?p=454
 permalink: /2013/06/27/retour-sur-lapero-du-mois-de-juin/
 categories:
   - AperoPHP

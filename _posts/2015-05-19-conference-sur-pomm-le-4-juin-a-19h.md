@@ -4,7 +4,7 @@ title: Conférence sur Pomm, le 4 juin à 19h
 date: 2015-05-19T08:00:45+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1081
+guid: /archives/?p=1081
 permalink: /2015/05/19/conference-sur-pomm-le-4-juin-a-19h/
 categories:
   - Conférence

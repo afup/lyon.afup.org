@@ -4,7 +4,7 @@ title: 'ApéroPHP &#8211; jeudi 27 septembre à 19h'
 date: 2012-09-18T11:14:58+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=17
+guid: /archives/?p=17
 permalink: /2012/09/18/aperophp-jeudi-27-septembre-a-19h/
 categories:
   - AperoPHP

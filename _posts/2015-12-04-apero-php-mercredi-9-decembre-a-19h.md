@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; mercredi 9 décembre à 19h'
 date: 2015-12-04T19:18:07+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1324
+guid: /archives/?p=1324
 permalink: /2015/12/04/apero-php-mercredi-9-decembre-a-19h/
 categories:
   - AperoPHP

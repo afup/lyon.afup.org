@@ -4,7 +4,7 @@ title: AperoPHP – Mardi 30 avril à 19h
 date: 2013-04-15T07:00:05+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=315
+guid: /archives/?p=315
 permalink: /2013/04/15/aperophp-mardi-30-avril-a-19h/
 categories:
   - AperoPHP

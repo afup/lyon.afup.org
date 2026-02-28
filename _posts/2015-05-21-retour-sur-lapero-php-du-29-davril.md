@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro PHP du 29 d&rsquo;avril'
 date: 2015-05-21T13:18:06+00:00
 author: Benoît Lévêque
 layout: post
-guid: http://lyon.afup.org/?p=1096
+guid: /archives/?p=1096
 permalink: /2015/05/21/retour-sur-lapero-php-du-29-davril/
 categories:
   - AperoPHP
@@ -37,4 +37,4 @@ Les slides : <http://beaute-vs-efficacite.github.io/slides/#/>
 
 Merci à toutes les personnes présentes et surtout aux 2 conférenciers Thomas Jarrand [@tom32i](https://twitter.com/tom32i) et Emeric Kasbarian [@emerick42](https://twitter.com/emerick42).
 
-Rendez-vous le 4 juin pour une conférence sur Pomm à l&rsquo;Epitech : <http://lyon.afup.org/2015/05/19/conference-sur-pomm-le-4-juin-a-19h/>
+Rendez-vous le 4 juin pour une conférence sur Pomm à l&rsquo;Epitech : </archives/2015/05/19/conference-sur-pomm-le-4-juin-a-19h/>

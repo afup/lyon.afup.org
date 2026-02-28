@@ -4,7 +4,7 @@ title: 'Super apéro PHP 2019 &#8211; 14 mars à 19h'
 date: 2019-02-27T13:20:16+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1979
+guid: /archives/?p=1979
 permalink: /2019/02/27/super-apero-php-2019-14-mars-a-19h/
 categories:
   - AperoPHP

@@ -4,12 +4,12 @@ title: Lancement de la préparation du PHPTour Lyon
 date: 2013-03-05T23:15:32+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=270
+guid: /archives/?p=270
 permalink: /2013/03/05/lancement-de-la-preparation-du-phptour-lyon/
 categories:
   - PHPTour
 ---
-Pour ceux qui ont raté [l&rsquo;information](http://lyon.afup.org/2013/02/21/phptour-lyon-2014/ "PHPTour Lyon 2014 !"), demain soir se tiendra une réunion de lancement de la préparation du PHPTour Lyon 2014.
+Pour ceux qui ont raté [l&rsquo;information](/archives/2013/02/21/phptour-lyon-2014/ "PHPTour Lyon 2014 !"), demain soir se tiendra une réunion de lancement de la préparation du PHPTour Lyon 2014.
 
 L&rsquo;ordre du jour est le suivant :  
 &#8211; Retour sur la présentation et sur les questions posées  

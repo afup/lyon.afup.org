@@ -4,14 +4,14 @@ title: Appel à orateurs
 date: 2016-11-16T12:49:33+00:00
 author: Adrien Gallou
 layout: page
-guid: http://lyon.afup.org/?page_id=1556
+guid: /archives/?page_id=1556
 permalink: /cfp/
 has_subheader: true
 ---
 
 # Appel à orateurs et oratrices
 
-Nous sommes toujours à la recherche de nouvelles personnes pour enrichir les meetups de l&rsquo;AFUP Lyon de nouvelles présentations (ceux-ci ont généralement lieu une fois par mois, vous pouvez consulter l&rsquo;historique des événements sur [cette page](http://lyon.afup.org/historique/))
+Nous sommes toujours à la recherche de nouvelles personnes pour enrichir les meetups de l&rsquo;AFUP Lyon de nouvelles présentations (ceux-ci ont généralement lieu une fois par mois, vous pouvez consulter l&rsquo;historique des événements sur [cette page](/archives/historique/))
 
 Tout le monde a quelque chose à partager, quel que soit votre secteur, votre expérience, vous pouvez faire profiter de vos connaissances au reste de la communauté. Les sujets sont variés, ils peuvent aller d&rsquo;un retour d&rsquo;expérience sur une méthodologie/technologie, jusqu&rsquo;au dernier outil que vous avez utilisé.
 

@@ -4,12 +4,12 @@ title: 'Apéro PHP/Python &#8211; mardi 25 mars à 19h'
 date: 2014-03-10T13:49:11+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=720
+guid: /archives/?p=720
 permalink: /2014/03/10/apero-phppython-mardi-25-mars-a-19h/
 categories:
   - AperoPHP
 ---
-Suite aux [retours positifs](http://lyon.afup.org/2013/09/30/retour-sur-lapero-pythonphp-du-mois-de-septembre/) de l&rsquo;apéro croisé Python/PHP de septembre 2013, nous renouvelons l&rsquo;expérience.
+Suite aux [retours positifs](/archives/2013/09/30/retour-sur-lapero-pythonphp-du-mois-de-septembre/) de l&rsquo;apéro croisé Python/PHP de septembre 2013, nous renouvelons l&rsquo;expérience.
 
 Ce mois-ci, l&rsquo;apéro PHP se déroulera donc  en commun avec [l&rsquo;apéro Python](http://afpyro.afpy.org/dates/2014/2014_03_25.html).
 

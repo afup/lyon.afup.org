@@ -4,12 +4,12 @@ title: 'Série de talks sur atoum &#8211; samedi 4 juin à 14h'
 date: 2016-05-04T11:48:37+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1457
+guid: /archives/?p=1457
 permalink: /2016/05/04/serie-de-talks-sur-atoum-samedi-4-juin-a-14h/
 categories:
   - Conférence
 ---
-<img class="aligncenter size-full wp-image-1463" src="http://lyon.afup.org/files/2016/05/atoum-logo.png" alt="atoum-logo" width="202" height="183" />
+<img class="aligncenter size-full wp-image-1463" src="/archives/files/2016/05/atoum-logo.png" alt="atoum-logo" width="202" height="183" />
 
 **Le samedi 4 juin, à partir de 14h auront lieu une série de talks à propos du framework de tests unitaires [atoum](http://atoum.org).**
 

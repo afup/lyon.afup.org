@@ -4,7 +4,7 @@ title: Apéro PHP – mercredi 29 avril à 19h
 date: 2015-04-14T21:55:48+00:00
 author: Benoît Lévêque
 layout: post
-guid: http://lyon.afup.org/?p=1055
+guid: /archives/?p=1055
 permalink: /2015/04/14/apero-php-mercredi-29-avril-a-19h/
 categories:
   - AperoPHP
@@ -29,4 +29,4 @@ Les apéros PHP sont ouverts à tous, quel que soit le niveau. Le but est de ren
 
 Au plaisir de vous y retrouver en fin de mois.
 
-PS : le 6 mai aura lieu un retour d&rsquo;expérience sur une migration vers Amazon Web Services. Vous pouvez toujours [vous y inscrire](http://lyon.afup.org/2015/04/13/conference-sur-aws-le-6-mai-a-19h/).
+PS : le 6 mai aura lieu un retour d&rsquo;expérience sur une migration vers Amazon Web Services. Vous pouvez toujours [vous y inscrire](/archives/2015/04/13/conference-sur-aws-le-6-mai-a-19h/).

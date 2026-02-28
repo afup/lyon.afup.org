@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; mercredi 26 juin à 19h'
 date: 2013-06-21T15:00:26+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=450
+guid: /archives/?p=450
 permalink: /2013/06/21/apero-php-mercredi-26-juin-a-19h/
 categories:
   - AperoPHP

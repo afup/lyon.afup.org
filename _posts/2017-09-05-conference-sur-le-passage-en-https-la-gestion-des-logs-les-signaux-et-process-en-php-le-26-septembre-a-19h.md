@@ -4,7 +4,7 @@ title: Conférence sur le passage en HTTPS / la gestion des logs / les signaux e
 date: 2017-09-05T12:13:54+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1792
+guid: /archives/?p=1792
 permalink: /2017/09/05/conference-sur-le-passage-en-https-la-gestion-des-logs-les-signaux-et-process-en-php-le-26-septembre-a-19h/
 categories:
   - Conférence

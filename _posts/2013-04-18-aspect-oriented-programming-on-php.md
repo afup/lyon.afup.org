@@ -4,7 +4,7 @@ title: Aspect Oriented Programming on PHP
 date: 2013-04-18T08:00:26+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=324
+guid: /archives/?p=324
 permalink: /2013/04/18/aspect-oriented-programming-on-php/
 categories:
   - Conférence

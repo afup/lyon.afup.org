@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; jeudi 1 février à 19h'
 date: 2018-01-20T19:57:28+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1858
+guid: /archives/?p=1858
 permalink: /2018/01/20/apero-php-jeudi-1-fevrier-a-19h/
 categories:
   - AperoPHP

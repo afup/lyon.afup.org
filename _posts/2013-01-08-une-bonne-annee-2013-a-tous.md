@@ -4,7 +4,7 @@ title: Une bonne année 2013 à tous !
 date: 2013-01-08T15:41:06+00:00
 author: communication
 layout: post
-guid: http://lyon.afup.org/?p=221
+guid: /archives/?p=221
 permalink: /2013/01/08/une-bonne-annee-2013-a-tous/
 categories:
   - Général

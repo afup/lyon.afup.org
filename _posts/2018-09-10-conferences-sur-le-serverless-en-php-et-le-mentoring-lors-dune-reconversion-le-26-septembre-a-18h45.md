@@ -4,7 +4,7 @@ title: 'Conférences sur le serverless en PHP et le mentoring lors d&rsquo;une r
 date: 2018-09-10T07:33:06+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1902
+guid: /archives/?p=1902
 permalink: /2018/09/10/conferences-sur-le-serverless-en-php-et-le-mentoring-lors-dune-reconversion-le-26-septembre-a-18h45/
 categories:
   - Conférence

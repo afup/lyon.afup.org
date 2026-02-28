@@ -4,7 +4,7 @@ title: 'Nouveau logo pour l&rsquo;AFUP Lyon'
 date: 2015-06-16T08:12:37+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1237
+guid: /archives/?p=1237
 permalink: /2015/06/16/nouveau-logo-pour-lafup-lyon/
 categories:
   - Général

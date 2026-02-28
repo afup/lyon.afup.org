@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; lundi 20 novembre à 19h'
 date: 2017-11-13T16:29:00+00:00
 author: Florian Ferrière
 layout: post
-guid: http://lyon.afup.org/?p=1833
+guid: /archives/?p=1833
 permalink: /2017/11/13/apero-php-lundi-20-avril-a-19h/
 categories:
   - Non classé

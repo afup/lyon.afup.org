@@ -4,7 +4,7 @@ title: Conférence sur atoum, le 10 septembre à 19h30
 date: 2013-09-05T12:38:55+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=489
+guid: /archives/?p=489
 permalink: /2013/09/05/conference-sur-atoum-le-10-septembre-a-19h30/
 categories:
   - Conférence
@@ -22,4 +22,4 @@ Dans un second temps, Julien, l&rsquo;un des principaux contributeurs du projet,
 La conférence aura lieu dans les locaux d’[Epitech](http://www.epitech.eu/ecole-informatique-lyon-rhone-alpes/ "Epitech Lyon"), au 86 boulevard Marius Vivier-Merle 69003 LYON.  
 Si vous voulez vous joindre à nous, [n’oubliez pas de vous inscrire](https://afup-lyon-atoum.eventbrite.fr/).
 
-Si vous voulez diffuser l’annonce dans votre société, à la maison, dans la rue, nous vous mettons à disposition le [flyer](http://lyon.afup.org/files/2013/09/flyer.pdf) de cette conférence.
+Si vous voulez diffuser l’annonce dans votre société, à la maison, dans la rue, nous vous mettons à disposition le [flyer](/archives/files/2013/09/flyer.pdf) de cette conférence.

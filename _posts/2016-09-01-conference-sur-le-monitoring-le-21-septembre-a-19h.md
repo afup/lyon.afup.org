@@ -4,7 +4,7 @@ title: Conférence sur le monitoring le 21 septembre à 19h
 date: 2016-09-01T13:29:06+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1506
+guid: /archives/?p=1506
 permalink: /2016/09/01/conference-sur-le-monitoring-le-21-septembre-a-19h/
 categories:
   - Conférence

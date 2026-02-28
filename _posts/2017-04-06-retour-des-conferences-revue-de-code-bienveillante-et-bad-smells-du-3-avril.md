@@ -4,7 +4,7 @@ title: 'Retour des conférences &laquo;&nbsp;Revue de code bienveillante&nbsp;&r
 date: 2017-04-06T09:00:11+00:00
 author: Pascal MARTIN
 layout: post
-guid: http://lyon.afup.org/?p=1755
+guid: /archives/?p=1755
 permalink: /2017/04/06/retour-des-conferences-revue-de-code-bienveillante-et-bad-smells-du-3-avril/
 categories:
   - Non classé
@@ -25,4 +25,4 @@ Les [slides commentés de la conférence de Nastasia sont disponibles ici](http:
 
 Merci à Nastasia et à Gilles pour leurs présentations !
 
-Prochain rendez-vous AFUP Lyon : l&rsquo;[apéro du 18 avril](http://lyon.afup.org/2017/03/22/apero-php-mardi-18-avril-a-19h/) 😉
+Prochain rendez-vous AFUP Lyon : l&rsquo;[apéro du 18 avril](/archives/2017/03/22/apero-php-mardi-18-avril-a-19h/) 😉

@@ -4,7 +4,7 @@ title: 'Retour sur la conférence &laquo;&nbsp;FuelPHP&nbsp;&raquo; du 22/11'
 date: 2012-12-03T22:43:48+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=202
+guid: /archives/?p=202
 permalink: /2012/12/03/retour-sur-la-conference-fuelphp-du-2211/
 categories:
   - Conférence

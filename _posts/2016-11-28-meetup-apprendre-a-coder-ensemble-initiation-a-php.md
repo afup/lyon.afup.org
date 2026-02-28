@@ -4,7 +4,7 @@ title: 'Meetup apprendre à coder ensemble : initiation à PHP'
 date: 2016-11-28T09:13:58+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1636
+guid: /archives/?p=1636
 permalink: /2016/11/28/meetup-apprendre-a-coder-ensemble-initiation-a-php/
 categories:
   - Non classé

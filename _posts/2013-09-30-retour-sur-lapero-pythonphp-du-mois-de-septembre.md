@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro Python/PHP du mois de septembre'
 date: 2013-09-30T13:00:28+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=545
+guid: /archives/?p=545
 permalink: /2013/09/30/retour-sur-lapero-pythonphp-du-mois-de-septembre/
 categories:
   - AperoPHP

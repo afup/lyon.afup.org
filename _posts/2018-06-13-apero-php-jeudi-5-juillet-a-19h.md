@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; jeudi 5 juillet à 19h'
 date: 2018-06-13T18:26:05+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1889
+guid: /archives/?p=1889
 permalink: /2018/06/13/apero-php-jeudi-5-juillet-a-19h/
 categories:
   - AperoPHP

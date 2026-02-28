@@ -4,7 +4,7 @@ title: Apéro PHP/Python sur Ruby le mercredi 26 novembre
 date: 2014-11-04T07:44:15+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=848
+guid: /archives/?p=848
 permalink: /2014/11/04/apero-phppython-sur-ruby-le-mercredi-26-novembre/
 categories:
   - AperoPHP

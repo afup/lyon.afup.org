@@ -4,7 +4,7 @@ title: 'PHP Tour Nantes 2012 &#8211; 29 et 30 novembre'
 date: 2012-09-20T13:19:28+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=24
+guid: /archives/?p=24
 permalink: /2012/09/20/phptour-nantes-2012-29-et-30-novembre/
 image: /files/2012/09/logo_phptour2012.png
 categories:

@@ -4,7 +4,7 @@ title: Chapeau bas !
 date: 2014-07-13T20:13:07+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=800
+guid: /archives/?p=800
 permalink: /2014/07/13/chapeau-bas/
 categories:
   - PHPTour

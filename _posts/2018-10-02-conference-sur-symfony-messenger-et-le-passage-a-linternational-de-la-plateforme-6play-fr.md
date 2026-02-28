@@ -4,7 +4,7 @@ title: 'Conférence sur Symfony Messenger et le passage à l&rsquo;international
 date: 2018-10-02T07:08:21+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1914
+guid: /archives/?p=1914
 permalink: /2018/10/02/conference-sur-symfony-messenger-et-le-passage-a-linternational-de-la-plateforme-6play-fr/
 categories:
   - Conférence

@@ -4,7 +4,7 @@ title: Atelier docker le samedi 30 avril
 date: 2016-04-14T11:52:12+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1408
+guid: /archives/?p=1408
 permalink: /2016/04/14/atelier-docker-le-samedi-30-avril/
 categories:
   - Atelier

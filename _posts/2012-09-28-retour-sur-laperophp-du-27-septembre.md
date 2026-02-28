@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéroPHP du 27 septembre'
 date: 2012-09-28T21:27:04+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=66
+guid: /archives/?p=66
 permalink: /2012/09/28/retour-sur-laperophp-du-27-septembre/
 categories:
   - AperoPHP

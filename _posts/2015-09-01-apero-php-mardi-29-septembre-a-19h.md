@@ -4,12 +4,12 @@ title: 'Apéro PHP &#8211; mardi 29 septembre à 19h'
 date: 2015-09-01T09:04:34+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1286
+guid: /archives/?p=1286
 permalink: /2015/09/01/apero-php-mardi-29-septembre-a-19h/
 categories:
   - AperoPHP
 ---
-Fin de la période estivale, les conférences et les apéros reprennent (d&rsquo;ailleurs si vous ne vous êtes pas encore inscrits à la [conférence sur l&rsquo;A/B testing](http://lyon.afup.org/2015/08/19/conference-sur-lab-testing-le-16-septembre-a-19h/) du 16 septembre, il est encore temps de le faire).
+Fin de la période estivale, les conférences et les apéros reprennent (d&rsquo;ailleurs si vous ne vous êtes pas encore inscrits à la [conférence sur l&rsquo;A/B testing](/archives/2015/08/19/conference-sur-lab-testing-le-16-septembre-a-19h/) du 16 septembre, il est encore temps de le faire).
 
 Le premier apéro PHP de cette nouvelle saison aura donc lieu le **mardi 29 septembre à 19h**.
 

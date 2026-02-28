@@ -4,7 +4,7 @@ title: 'Conférence sur l&rsquo;AB testing et le télétravail le 11 octobre à 
 date: 2017-09-26T13:28:18+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1798
+guid: /archives/?p=1798
 permalink: /2017/09/26/conference-sur-lab-testing-et-le-teletravail-le-11-octobre-a-19h/
 categories:
   - Non classé

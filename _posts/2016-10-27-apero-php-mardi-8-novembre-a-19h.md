@@ -4,7 +4,7 @@ title: 'Apero PHP &#8211; mardi 8 novembre à 19h'
 date: 2016-10-27T15:19:47+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1552
+guid: /archives/?p=1552
 permalink: /2016/10/27/apero-php-mardi-8-novembre-a-19h/
 categories:
   - AperoPHP

@@ -4,13 +4,13 @@ title: 'Retour sur la conférence et l&rsquo;atelier Git du 16 et 17/12'
 date: 2012-11-24T22:27:52+00:00
 author: loïc moriamé
 layout: post
-guid: http://lyon.afup.org/?p=195
+guid: /archives/?p=195
 permalink: /2012/11/24/retour-conf-atelier-git/
 categories:
   - Atelier
   - Conférence
 ---
-La semaine dernière se tenaient [la conférence et l&rsquo;atelier Git](http://lyon.afup.org/2012/11/02/conference-et-atelier-git-par-sebastien-douche/) présentés par [Sébastien Douche](https://twitter.com/sdouche)
+La semaine dernière se tenaient [la conférence et l&rsquo;atelier Git](/archives/2012/11/02/conference-et-atelier-git-par-sebastien-douche/) présentés par [Sébastien Douche](https://twitter.com/sdouche)
 
 Une nouvelle fois cet événement a été un succès :
 

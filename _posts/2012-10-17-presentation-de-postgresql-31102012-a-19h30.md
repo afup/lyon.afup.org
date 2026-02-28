@@ -4,7 +4,7 @@ title: 'Présentation de PostgreSQL &#8211; 31/10/2012 à 19h30'
 date: 2012-10-17T13:31:17+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=95
+guid: /archives/?p=95
 permalink: /2012/10/17/presentation-de-postgresql-31102012-a-19h30/
 categories:
   - Conférence

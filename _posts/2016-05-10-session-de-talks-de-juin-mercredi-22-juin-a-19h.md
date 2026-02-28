@@ -4,7 +4,7 @@ title: 'Session de talks de juin &#8211; mercredi 22 juin à 19h'
 date: 2016-05-10T15:15:58+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1476
+guid: /archives/?p=1476
 permalink: /2016/05/10/session-de-talks-de-juin-mercredi-22-juin-a-19h/
 categories:
   - Conférence

@@ -4,7 +4,7 @@ title: 'Aidez l&rsquo;AFUP en moins de 2 minutes'
 date: 2017-01-31T10:08:01+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1681
+guid: /archives/?p=1681
 permalink: /2017/01/31/aidez-lafup-en-moins-de-2-minutes/
 categories:
   - Général

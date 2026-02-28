@@ -4,7 +4,7 @@ title: Conférences sur le debugging / les workers en PHP, le mardi 10 mai à 19
 date: 2016-04-19T15:49:41+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1396
+guid: /archives/?p=1396
 permalink: /2016/04/19/conferences-sur-le-debugging-les-workers-en-php-le-mardi-10-mai-a-19h/
 categories:
   - Conférence

@@ -4,7 +4,7 @@ title: Naissance du site
 date: 2012-08-05T21:15:37+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=10
+guid: /archives/?p=10
 permalink: /2012/08/05/naissance-du-site/
 categories:
   - Général

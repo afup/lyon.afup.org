@@ -4,7 +4,7 @@ title: 'L&rsquo;AFUP Lyon sera présente au Banquet du web #2'
 date: 2013-05-17T18:06:19+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=398
+guid: /archives/?p=398
 permalink: /2013/05/17/lafup-lyon-sera-presente-au-banquet-du-web-2/
 categories:
   - Conférence

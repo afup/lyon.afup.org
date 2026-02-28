@@ -4,7 +4,7 @@ title: Apéro PHP – mercredi 29 janvier à 19h
 date: 2014-01-06T12:49:56+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=678
+guid: /archives/?p=678
 permalink: /2014/01/06/apero-php-mercredi-29-janvier-a-19h/
 categories:
   - AperoPHP

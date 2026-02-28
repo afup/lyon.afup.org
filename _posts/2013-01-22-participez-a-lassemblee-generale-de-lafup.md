@@ -4,7 +4,7 @@ title: 'Participez à l&rsquo;Assemblée Générale de l&rsquo;AFUP'
 date: 2013-01-22T16:22:31+00:00
 author: communication
 layout: post
-guid: http://lyon.afup.org/?p=233
+guid: /archives/?p=233
 permalink: /2013/01/22/participez-a-lassemblee-generale-de-lafup/
 categories:
   - Général

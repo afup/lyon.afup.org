@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211;  mardi 18 avril à 19h'
 date: 2017-03-22T14:39:07+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1736
+guid: /archives/?p=1736
 permalink: /2017/03/22/apero-php-mardi-18-avril-a-19h/
 categories:
   - AperoPHP
@@ -13,7 +13,7 @@ Après le super apéro de mars, nous vous proposons de nous retrouver le mardi 1
 
 Cela sera l&rsquo;occasion de parler du [PHP Tour à Nantes](http://event.afup.org/) et envisager peut être un convoi lyonnais.
 
-Si vous souhaitez vous joindre à nous, [merci de vous inscrire sur meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/238599637/) et pour assouvir votre soif de connaissance cette fois-ci n&rsquo;oubliez pas de vous inscrire à la c[onférence du 3 avril autour de la revue de code bienveillante et les bad smells](http://lyon.afup.org/2017/03/14/revue-de-code-bienveillante-bad-smells-le-3-avril-a-19h/).
+Si vous souhaitez vous joindre à nous, [merci de vous inscrire sur meetup](https://www.meetup.com/fr-FR/afup-lyon-php/events/238599637/) et pour assouvir votre soif de connaissance cette fois-ci n&rsquo;oubliez pas de vous inscrire à la c[onférence du 3 avril autour de la revue de code bienveillante et les bad smells](/archives/2017/03/14/revue-de-code-bienveillante-bad-smells-le-3-avril-a-19h/).
 
 ![Logo apéro](/files/2017/03/afup-apero-300-271x300.png)
 

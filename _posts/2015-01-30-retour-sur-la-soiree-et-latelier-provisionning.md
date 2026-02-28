@@ -4,7 +4,7 @@ title: 'Retour sur la soirée et l&rsquo;atelier provisionning'
 date: 2015-01-30T13:24:13+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=869
+guid: /archives/?p=869
 permalink: /2015/01/30/retour-sur-la-soiree-et-latelier-provisionning/
 categories:
   - Non classé

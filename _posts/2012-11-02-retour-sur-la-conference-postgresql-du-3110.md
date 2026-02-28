@@ -4,7 +4,7 @@ title: Retour sur la conférence PostgreSQL du 31/10
 date: 2012-11-02T21:50:47+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=147
+guid: /archives/?p=147
 permalink: /2012/11/02/retour-sur-la-conference-postgresql-du-3110/
 categories:
   - Conférence
@@ -12,7 +12,7 @@ tags:
   - PostgreSQL
   - retour
 ---
-Pour ceux qui avaient ratés la nouvelle, le 31 octobre dernier s&rsquo;est tenu la [conférence PostgreSQL](http://lyon.afup.org/2012/10/17/presentation-de-postgresql-31102012-a-19h30/ "Conférence PostgreSQL par l'AFUP Lyon").
+Pour ceux qui avaient ratés la nouvelle, le 31 octobre dernier s&rsquo;est tenu la [conférence PostgreSQL](/archives/2012/10/17/presentation-de-postgresql-31102012-a-19h30/ "Conférence PostgreSQL par l'AFUP Lyon").
 
 Cette soirée a été un succès, puisque plus de 80 personnes étaient présentes, pour suivre les présentations de <a href="https://twitter.com/g_lelarge" title="Twitter Guillaume Lelarge" target="_blank">Guillaume Lelarge</a> et <a href="https://twitter.com/tapoueh" title="Twitter Dimitri Fontaine" target="_blank">Dimitri Fontaine</a>.
 

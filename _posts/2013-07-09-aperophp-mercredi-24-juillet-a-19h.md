@@ -4,7 +4,7 @@ title: ApéroPHP – mercredi 24 juillet à 19h
 date: 2013-07-09T11:41:37+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=467
+guid: /archives/?p=467
 permalink: /2013/07/09/aperophp-mercredi-24-juillet-a-19h/
 categories:
   - AperoPHP

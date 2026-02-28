@@ -4,7 +4,7 @@ title: 'Conférence &laquo;&nbsp;Chronique d’un voyage vers l’Est&nbsp;&raqu
 date: 2016-02-10T12:48:31+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1344
+guid: /archives/?p=1344
 permalink: /2016/02/10/conference-chronique-dun-voyage-vers-lest-le-24-fevrier-a-19h/
 categories:
   - Conférence

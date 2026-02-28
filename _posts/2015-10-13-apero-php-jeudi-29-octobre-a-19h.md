@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; jeudi 29 octobre à 19h'
 date: 2015-10-13T11:48:36+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1295
+guid: /archives/?p=1295
 permalink: /2015/10/13/apero-php-jeudi-29-octobre-a-19h/
 categories:
   - AperoPHP

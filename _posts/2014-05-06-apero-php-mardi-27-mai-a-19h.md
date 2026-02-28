@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; mardi 27 mai à 19h'
 date: 2014-05-06T10:20:21+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=767
+guid: /archives/?p=767
 permalink: /2014/05/06/apero-php-mardi-27-mai-a-19h/
 categories:
   - AperoPHP

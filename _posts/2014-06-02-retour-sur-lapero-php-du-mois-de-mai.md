@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro PHP du mois de mai'
 date: 2014-06-02T08:30:30+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=775
+guid: /archives/?p=775
 permalink: /2014/06/02/retour-sur-lapero-php-du-mois-de-mai/
 categories:
   - AperoPHP
@@ -13,7 +13,7 @@ Le 27 mai dernier, une vingtaine de développeurs se sont retrouvés à l&rsquo;
 
 Lors de celui-ci Pascal Martin nous à présenté [HHVM](http://hhvm.com/) et [Hack](http://hacklang.org/).
 
-<img class="aligncenter size-medium wp-image-776" src="http://lyon.afup.org/files/2014/06/2014-06-01-300x129.jpg" alt="2014-06-01" width="300" height="129" srcset="https://lyon.afup.org/files/2014/06/2014-06-01-300x129.jpg 300w, https://lyon.afup.org/files/2014/06/2014-06-01-1024x441.jpg 1024w, https://lyon.afup.org/files/2014/06/2014-06-01-500x215.jpg 500w, https://lyon.afup.org/files/2014/06/2014-06-01.jpg 1358w" sizes="(max-width: 300px) 100vw, 300px" /> 
+<img class="aligncenter size-medium wp-image-776" src="/archives/files/2014/06/2014-06-01-300x129.jpg" alt="2014-06-01" width="300" height="129" srcset="/archives/files/2014/06/2014-06-01-300x129.jpg 300w, /archives/files/2014/06/2014-06-01-1024x441.jpg 1024w, /archives/files/2014/06/2014-06-01-500x215.jpg 500w, /archives/files/2014/06/2014-06-01.jpg 1358w" sizes="(max-width: 300px) 100vw, 300px" /> 
 
 Vous pouvez retrouver ses slides ainsi que les notes de présentation à cette adresse : <http://blog.pascal-martin.fr/public/slides-presentation-hhvm-hack-apero-lyon/>
 

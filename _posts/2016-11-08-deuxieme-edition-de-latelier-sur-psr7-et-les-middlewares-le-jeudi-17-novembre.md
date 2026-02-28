@@ -4,7 +4,7 @@ title: 'Deuxième édition de l&rsquo;atelier sur PSR7 et les middlewares, le je
 date: 2016-11-08T13:01:32+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1574
+guid: /archives/?p=1574
 permalink: /2016/11/08/deuxieme-edition-de-latelier-sur-psr7-et-les-middlewares-le-jeudi-17-novembre/
 categories:
   - Atelier

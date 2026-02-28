@@ -4,7 +4,7 @@ title: 'Soirée Revue d&rsquo;architecture le 27 Juin à 19h'
 date: 2017-05-09T13:50:32+00:00
 author: Florian Ferrière
 layout: post
-guid: http://lyon.afup.org/?p=1771
+guid: /archives/?p=1771
 permalink: /2017/05/09/soiree-revue-darchitecture-le-27-juin-a-19h/
 categories:
   - Conférence

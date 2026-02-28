@@ -4,7 +4,7 @@ title: 'Conférences sur la gestion de données / publication d&rsquo;events san
 date: 2016-09-21T12:12:01+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1535
+guid: /archives/?p=1535
 permalink: /2016/09/21/conferences-sur-la-gestion-de-donnees-publication-devents-dans-rabbitmq-le-12-octobre-a-19h/
 categories:
   - Conférence

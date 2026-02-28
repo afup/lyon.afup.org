@@ -4,7 +4,7 @@ title: 'Conférences sur les Flux PHP et le Serializer  Symfony, le 5 novembre �
 date: 2015-10-19T12:31:00+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1305
+guid: /archives/?p=1305
 permalink: /2015/10/19/conferences-sur-les-flux-php-et-le-serializer-symfony-le-5-novembre-a-19h/
 categories:
   - Conférence
@@ -33,6 +33,6 @@ Voici donc le programme :
 
 La conférence aura lieu le jeudi 5 novembre à 19h, dans les locaux d’Epitech, au 86 boulevard Marius Vivier-Merle 69003 LYON. Merci de [vous y inscrire](https://serializer-sf2--flux-php.eventbrite.fr) préalablement.
 
-PS1 : vous pouvez toujours vous inscrire à <a href="http://lyon.afup.org/2015/10/13/apero-php-jeudi-29-octobre-a-19h/" target="_blank">l&rsquo;apéro PHP</a> du mois d&rsquo;octobre.
+PS1 : vous pouvez toujours vous inscrire à <a href="/archives/2015/10/13/apero-php-jeudi-29-octobre-a-19h/" target="_blank">l&rsquo;apéro PHP</a> du mois d&rsquo;octobre.
 
 PS2 : si ce n&rsquo;est pas encore fait, inscrivez vous au <a href="http://event.afup.org/" target="_blank">Forum PHP</a>, les places partent vite.

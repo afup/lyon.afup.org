@@ -4,7 +4,7 @@ title: 'Conférences sur le PIM d&rsquo;Akeneo et sur Make le 28 novembre à 19h
 date: 2016-11-14T10:04:58+00:00
 author: Benoît Lévêque
 layout: post
-guid: http://lyon.afup.org/?p=1567
+guid: /archives/?p=1567
 permalink: /2016/11/14/conferences-sur-le-pim-dakeneo-et-sur-make-le-28-novembre-a-19h/
 categories:
   - Non classé

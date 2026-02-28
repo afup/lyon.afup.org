@@ -4,7 +4,7 @@ title: 'Un témoignage intéressant sur PostgreSQL : le site du Bon Coin'
 date: 2012-12-20T16:51:13+00:00
 author: communication
 layout: post
-guid: http://lyon.afup.org/?p=217
+guid: /archives/?p=217
 permalink: /2012/12/20/un-temoignage-interessant-sur-postgresql-le-site-du-bon-coin/
 categories:
   - Conférence

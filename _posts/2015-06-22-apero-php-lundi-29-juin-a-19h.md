@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; lundi 29 juin à 19h'
 date: 2015-06-22T12:28:26+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1252
+guid: /archives/?p=1252
 permalink: /2015/06/22/apero-php-lundi-29-juin-a-19h/
 categories:
   - AperoPHP

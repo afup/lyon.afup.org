@@ -4,7 +4,7 @@ title: Apéro PHP – lundi 8 juin à 19h
 date: 2015-05-28T12:05:36+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1108
+guid: /archives/?p=1108
 permalink: /2015/05/28/apero-php-lundi-8-juin-a-19h/
 categories:
   - AperoPHP
@@ -19,4 +19,4 @@ Comme d&rsquo;habitude, l’apéro aura lieu à [l’Antre-Autre](http://www.lan
 
 Merci de vous y inscrire sur le [site des apéros PHP](http://aperophp.net/360/view.html) .
 
-PS : la semaine précédente aura lieu une conférence sur Pomm, donnée par Grégoire Hubert, créateur de cette librairie, alors n&rsquo;hésitez pas à [vous y inscrire](http://lyon.afup.org/2015/05/19/conference-sur-pomm-le-4-juin-a-19h/).
+PS : la semaine précédente aura lieu une conférence sur Pomm, donnée par Grégoire Hubert, créateur de cette librairie, alors n&rsquo;hésitez pas à [vous y inscrire](/archives/2015/05/19/conference-sur-pomm-le-4-juin-a-19h/).

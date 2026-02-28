@@ -4,7 +4,7 @@ title: 'Retour sur l&rsquo;apéro du mois d&rsquo;avril'
 date: 2013-05-02T13:22:11+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=349
+guid: /archives/?p=349
 permalink: /2013/05/02/retour-sur-lapero-du-mois-davril/
 categories:
   - AperoPHP
@@ -20,27 +20,13 @@ Le prochain apéro PHP aura lieu au même endroit le mercredi 29 mai. Nous espé
 <div id='gallery-3' class='gallery galleryid-349 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_4944/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_4944-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_4944/'><img width="150" height="150" src="/archives/files/2013/05/IMG_4944-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_4946/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_4946-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-    </dt>
-  </dl>
-  
-  <br style="clear: both" />
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_4948/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_4948-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
-    </dt>
-  </dl>
-  
-  <dl class='gallery-item'>
-    <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_20130430_192116/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_20130430_192116-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_4946/'><img width="150" height="150" src="/archives/files/2013/05/IMG_4946-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
@@ -48,13 +34,13 @@ Le prochain apéro PHP aura lieu au même endroit le mercredi 29 mai. Nous espé
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_1708/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_1708-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_4948/'><img width="150" height="150" src="/archives/files/2013/05/IMG_4948-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_1705/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_1705-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_20130430_192116/'><img width="150" height="150" src="/archives/files/2013/05/IMG_20130430_192116-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
@@ -62,13 +48,27 @@ Le prochain apéro PHP aura lieu au même endroit le mercredi 29 mai. Nous espé
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_1706/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_1706-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_1708/'><img width="150" height="150" src="/archives/files/2013/05/IMG_1708-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/05/02/retour-sur-lapero-du-mois-davril/img_1707/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/05/IMG_1707-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_1705/'><img width="150" height="150" src="/archives/files/2013/05/IMG_1705-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    </dt>
+  </dl>
+  
+  <br style="clear: both" />
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_1706/'><img width="150" height="150" src="/archives/files/2013/05/IMG_1706-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+    </dt>
+  </dl>
+  
+  <dl class='gallery-item'>
+    <dt class='gallery-icon landscape'>
+      <a href='/archives/2013/05/02/retour-sur-lapero-du-mois-davril/img_1707/'><img width="150" height="150" src="/archives/files/2013/05/IMG_1707-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   

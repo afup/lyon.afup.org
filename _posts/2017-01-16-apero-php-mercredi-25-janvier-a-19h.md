@@ -4,7 +4,7 @@ title: 'Apero PHP &#8211; mercredi 25 janvier à 19h'
 date: 2017-01-16T14:12:17+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1664
+guid: /archives/?p=1664
 permalink: /2017/01/16/apero-php-mercredi-25-janvier-a-19h/
 categories:
   - AperoPHP

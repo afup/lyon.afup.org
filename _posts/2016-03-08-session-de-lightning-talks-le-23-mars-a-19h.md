@@ -4,7 +4,7 @@ title: Session de lightning talks, le 23 mars à 19h
 date: 2016-03-08T13:06:51+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1363
+guid: /archives/?p=1363
 permalink: /2016/03/08/session-de-lightning-talks-le-23-mars-a-19h/
 categories:
   - Conférence

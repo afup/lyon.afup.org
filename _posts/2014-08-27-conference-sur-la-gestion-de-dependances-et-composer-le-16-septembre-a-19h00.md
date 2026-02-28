@@ -4,7 +4,7 @@ title: Conférence sur la gestion de dépendances et composer, le 16 septembre �
 date: 2014-08-27T13:14:41+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=818
+guid: /archives/?p=818
 permalink: /2014/08/27/conference-sur-la-gestion-de-dependances-et-composer-le-16-septembre-a-19h00/
 categories:
   - Conférence
@@ -24,4 +24,4 @@ Si vous voulez vous joindre à nous, n’oubliez pas de [vous inscrire](http://a
 
 <img class="aligncenter" src="https://getcomposer.org/img/logo-composer-transparent.png" alt="Logo composer" width="300" height="356" /> 
 
-PS : Si vous souhaitez communiquer à propos de la présentation, vous pouvez le faire en affichant [ce flyer](http://lyon.afup.org/files/2014/09/flyer.pdf) dans votre openspace
+PS : Si vous souhaitez communiquer à propos de la présentation, vous pouvez le faire en affichant [ce flyer](/archives/files/2014/09/flyer.pdf) dans votre openspace

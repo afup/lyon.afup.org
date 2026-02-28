@@ -4,7 +4,7 @@ title: Retour sur la conférence sur atoum
 date: 2013-09-13T10:15:30+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=505
+guid: /archives/?p=505
 permalink: /2013/09/13/retour-sur-la-conference-sur-atoum/
 categories:
   - Conférence
@@ -12,7 +12,7 @@ categories:
 Mardi soir, Frédéric Hardy, créateur du framework de test atoum, nous a présenté ce framework, alternative à phpunit pour écrire les tests unitaires. La présentation s&rsquo;est focalisée sur les fonctionnalités d&rsquo;adapters et de mocks qui permettent le test de classes faisant appel à des services externes.
 
 <p style="text-align: center">
-  <img class="aligncenter" alt="20130910_204324" src="http://lyon.afup.org/files/2013/09/20130910_204324-300x225.jpg" width="300" height="225" />
+  <img class="aligncenter" alt="20130910_204324" src="/archives/files/2013/09/20130910_204324-300x225.jpg" width="300" height="225" />
 </p>
 
 Ensuite Julien Bianchi, l&rsquo;un des principaux contributeurs au projet nous a présenté la toute récente intégration d&rsquo;atoum dans Netbeans :
@@ -66,4 +66,4 @@ Vous trouverez ci dessous quelques réactions suite à la conférence :
 
 
 
-PS : n&rsquo;oubliez pas l&rsquo;[apéro PHP/Python du 25 septembre](http://lyon.afup.org/2013/09/10/apero-pythonphp-a-lyon-le-mercredi-25-septembre/).
+PS : n&rsquo;oubliez pas l&rsquo;[apéro PHP/Python du 25 septembre](/archives/2013/09/10/apero-pythonphp-a-lyon-le-mercredi-25-septembre/).

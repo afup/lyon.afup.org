@@ -4,7 +4,7 @@ title: 'Session de talks de février &#8211; 15 février à 19h : performance, l
 date: 2017-01-26T13:51:37+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1670
+guid: /archives/?p=1670
 permalink: /2017/01/26/session-de-talks-de-fevrier-15-fevrier-a-19h-performance-letsencypt-et-design-sprint/
 categories:
   - Conférence

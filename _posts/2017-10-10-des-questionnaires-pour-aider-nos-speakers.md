@@ -4,7 +4,7 @@ title: Des questionnaires pour aider nos speakers
 date: 2017-10-10T06:35:28+00:00
 author: Pascal MARTIN
 layout: post
-guid: http://lyon.afup.org/?p=1807
+guid: /archives/?p=1807
 permalink: /2017/10/10/des-questionnaires-pour-aider-nos-speakers/
 categories:
   - Non classé

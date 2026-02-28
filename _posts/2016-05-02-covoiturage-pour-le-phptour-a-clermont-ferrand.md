@@ -4,12 +4,12 @@ title: Covoiturage pour le PHPTour à Clermont-Ferrand
 date: 2016-05-02T12:01:59+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1437
+guid: /archives/?p=1437
 permalink: /2016/05/02/covoiturage-pour-le-phptour-a-clermont-ferrand/
 categories:
   - Général
 ---
-<img class="aligncenter" style="width: 100%" src="http://lyon.afup.org/files/2016/05/Capture-du-2016-05-01-211600-1024x401.png" alt="Covoiturage" />
+<img class="aligncenter" style="width: 100%" src="/archives/files/2016/05/Capture-du-2016-05-01-211600-1024x401.png" alt="Covoiturage" />
 
 De nombreux lyonnais participeront au PHPTour les 23 et 24 mai à Clermont-Ferrand (l&rsquo;événement se rapproche, si vous n&rsquo;avez pas pris votre place, il est encore temps [de l&rsquo;acheter](http://event.afup.org)).
 

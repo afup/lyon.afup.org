@@ -4,7 +4,7 @@ title: Atelier PSR-7/Middlewares le 27 septembre par Matthieu Napoli
 date: 2016-09-12T12:45:42+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1509
+guid: /archives/?p=1509
 permalink: /2016/09/12/atelier-psr-7middlewares-le-27-septembre-par-matthieu-napoli/
 categories:
   - Atelier

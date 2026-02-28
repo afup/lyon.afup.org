@@ -4,7 +4,7 @@ title: Le Forum PHP 2013 retrouve son créneau automnal historique
 date: 2013-02-07T17:36:43+00:00
 author: communication
 layout: post
-guid: http://lyon.afup.org/?p=247
+guid: /archives/?p=247
 permalink: /2013/02/07/le-forum-php-2013-retrouve-son-creneau-automnal-historique/
 categories:
   - Général

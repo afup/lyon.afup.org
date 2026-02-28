@@ -4,7 +4,7 @@ title: Soirée provisionning le vendredi 23 janvier à 19h00 
 date: 2015-01-05T13:22:43+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=853
+guid: /archives/?p=853
 permalink: /2015/01/05/soiree-provisionning-le-vendredi-23-janvier-a-19h00/
 categories:
   - Conférence

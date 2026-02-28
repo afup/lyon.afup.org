@@ -4,7 +4,7 @@ title: Conférence et atelier Git par Sébastien Douche
 date: 2012-11-02T10:15:43+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=107
+guid: /archives/?p=107
 permalink: /2012/11/02/conference-et-atelier-git-par-sebastien-douche/
 image: /files/2012/11/git-logo.png
 categories:

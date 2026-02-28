@@ -4,7 +4,7 @@ title: Retour sur la conférence sur Hoa
 date: 2013-11-07T08:50:44+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=637
+guid: /archives/?p=637
 permalink: /2013/11/07/retour-sur-la-conference-sur-hoa/
 categories:
   - Conférence
@@ -24,13 +24,13 @@ Ceci n&rsquo;est qu&rsquo;une partie de l&rsquo;ensemble du Projet Hoa, nous vou
 <div id='gallery-7' class='gallery galleryid-637 gallery-columns-2 gallery-size-thumbnail'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/11/07/retour-sur-la-conference-sur-hoa/bxruigxicaaxesv-jpglarge/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/11/BXruiGXIcAAxesV.jpglarge-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/11/07/retour-sur-la-conference-sur-hoa/bxruigxicaaxesv-jpglarge/'><img width="150" height="150" src="/archives/files/2013/11/BXruiGXIcAAxesV.jpglarge-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/11/07/retour-sur-la-conference-sur-hoa/bxseohbimaatdqt-jpglarge/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/11/BXsEOhbIMAATDqt.jpglarge-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/11/07/retour-sur-la-conference-sur-hoa/bxseohbimaatdqt-jpglarge/'><img width="150" height="150" src="/archives/files/2013/11/BXsEOhbIMAATDqt.jpglarge-150x150.jpeg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
@@ -38,13 +38,13 @@ Ceci n&rsquo;est qu&rsquo;une partie de l&rsquo;ensemble du Projet Hoa, nous vou
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/11/07/retour-sur-la-conference-sur-hoa/img_2031/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/11/IMG_2031-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/11/07/retour-sur-la-conference-sur-hoa/img_2031/'><img width="150" height="150" src="/archives/files/2013/11/IMG_2031-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://lyon.afup.org/2013/11/07/retour-sur-la-conference-sur-hoa/img_2030/'><img width="150" height="150" src="http://lyon.afup.org/files/2013/11/IMG_2030-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+      <a href='/archives/2013/11/07/retour-sur-la-conference-sur-hoa/img_2030/'><img width="150" height="150" src="/archives/files/2013/11/IMG_2030-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
     </dt>
   </dl>
   

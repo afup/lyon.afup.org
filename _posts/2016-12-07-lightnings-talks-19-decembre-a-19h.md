@@ -4,7 +4,7 @@ title: 'Lightnings talks &#8211; 19 décembre à 19h'
 date: 2016-12-07T13:49:31+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1641
+guid: /archives/?p=1641
 permalink: /2016/12/07/lightnings-talks-19-decembre-a-19h/
 categories:
   - Conférence

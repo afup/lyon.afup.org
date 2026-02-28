@@ -4,7 +4,7 @@ title: Retour sur la conférence MySQL
 date: 2014-04-16T13:06:44+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=747
+guid: /archives/?p=747
 permalink: /2014/04/16/retour-sur-la-conference-mysql/
 categories:
   - Conférence
@@ -13,7 +13,7 @@ La semaine dernière, jeudi 10 avril, Olivier Zemrag, consultant chez MySQL/Orac
 
 Une cinquantaine de personnes étaient présentes pour assister à la conférence.
 
-[<img class="aligncenter size-medium wp-image-751" alt="Bk3_CLVIMAA3PDf" src="http://lyon.afup.org/files/2014/04/Bk3_CLVIMAA3PDf-300x168.jpg" width="300" height="168" srcset="https://lyon.afup.org/files/2014/04/Bk3_CLVIMAA3PDf-300x168.jpg 300w, https://lyon.afup.org/files/2014/04/Bk3_CLVIMAA3PDf-1024x576.jpg 1024w, https://lyon.afup.org/files/2014/04/Bk3_CLVIMAA3PDf-500x281.jpg 500w, https://lyon.afup.org/files/2014/04/Bk3_CLVIMAA3PDf.jpg 1066w" sizes="(max-width: 300px) 100vw, 300px" />](http://lyon.afup.org/files/2014/04/Bk3_CLVIMAA3PDf.jpg)
+[<img class="aligncenter size-medium wp-image-751" alt="Bk3_CLVIMAA3PDf" src="/archives/files/2014/04/Bk3_CLVIMAA3PDf-300x168.jpg" width="300" height="168" srcset="/archives/files/2014/04/Bk3_CLVIMAA3PDf-300x168.jpg 300w, /archives/files/2014/04/Bk3_CLVIMAA3PDf-1024x576.jpg 1024w, /archives/files/2014/04/Bk3_CLVIMAA3PDf-500x281.jpg 500w, /archives/files/2014/04/Bk3_CLVIMAA3PDf.jpg 1066w" sizes="(max-width: 300px) 100vw, 300px" />](/archives/files/2014/04/Bk3_CLVIMAA3PDf.jpg)
 
 Après une présentation des différentes versions de MySQL et des dernières nouveautés du SGBD, Olivier s&rsquo;est attelé à nous présenter les différentes options de configuration de MySQL et comment et dans quelles cas les modifier (la présentation était axée sur les performances).
 
@@ -47,4 +47,4 @@ Et pour finir quelques retours sur l&rsquo;évènement :
 
 
 
-PS : n&rsquo;oubliez pas de vous inscrire à [l&rsquo;apérophp du mois d&rsquo;avril](http://lyon.afup.org/2014/04/09/apero-php-mardi-22-avril-a-19h/) qui aura lieu le 22
+PS : n&rsquo;oubliez pas de vous inscrire à [l&rsquo;apérophp du mois d&rsquo;avril](/archives/2014/04/09/apero-php-mardi-22-avril-a-19h/) qui aura lieu le 22

@@ -4,7 +4,7 @@ title: 'AperoPHP &#8211; Mardi 26 février à 19h'
 date: 2013-02-15T14:07:26+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=254
+guid: /archives/?p=254
 permalink: /2013/02/15/aperophp-mardi-26-fevrier-a-19h/
 categories:
   - AperoPHP

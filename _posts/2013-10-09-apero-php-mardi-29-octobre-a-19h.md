@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; mardi 29 octobre à 19h'
 date: 2013-10-09T10:21:25+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=619
+guid: /archives/?p=619
 permalink: /2013/10/09/apero-php-mardi-29-octobre-a-19h/
 categories:
   - AperoPHP
@@ -19,4 +19,4 @@ Les apéros PHP sont ouverts à tous, quelque soit le niveau, le but est de renc
 
 Au plaisir de vous y retrouver en fin de mois.
 
-PS : la veille aura lieu une conférence sur l&rsquo;ensemble de librairies Hoa, n&rsquo;hésitez pas à [vous y inscrire](http://lyon.afup.org/2013/10/01/conference-sur-hoa-le-28-octobre-a-19h00/).
+PS : la veille aura lieu une conférence sur l&rsquo;ensemble de librairies Hoa, n&rsquo;hésitez pas à [vous y inscrire](/archives/2013/10/01/conference-sur-hoa-le-28-octobre-a-19h00/).

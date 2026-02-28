@@ -4,7 +4,7 @@ title: 'Apéro PHP &#8211; jeudi 15 novembre à 19h'
 date: 2018-10-31T11:29:08+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1936
+guid: /archives/?p=1936
 permalink: /2018/10/31/apero-php-jeudi-15-novembre-a-19h/
 categories:
   - AperoPHP

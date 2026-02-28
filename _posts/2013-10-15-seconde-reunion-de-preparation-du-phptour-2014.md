@@ -4,7 +4,7 @@ title: Seconde réunion de préparation du PHPTour 2014
 date: 2013-10-15T08:00:54+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=629
+guid: /archives/?p=629
 permalink: /2013/10/15/seconde-reunion-de-preparation-du-phptour-2014/
 categories:
   - Non classé

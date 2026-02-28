@@ -4,7 +4,7 @@ title: Conférence sur AWS, le 6 mai à 19h
 date: 2015-04-13T09:30:46+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1034
+guid: /archives/?p=1034
 permalink: /2015/04/13/conference-sur-aws-le-6-mai-a-19h/
 categories:
   - Conférence

@@ -4,7 +4,7 @@ title: Apéro PHP – jeudi 29 janvier à 19h
 date: 2015-01-21T13:24:09+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=865
+guid: /archives/?p=865
 permalink: /2015/01/21/apero-php-jeudi-29-janvier-a-19h/
 categories:
   - AperoPHP
@@ -19,6 +19,6 @@ Cette soirée ouverte à tous (pas besoin d&rsquo;être développeur pour venir)
 
 En espérant vous y retrouver nombreux.
 
-PS : il est encore temps de s&rsquo;inscrire pour venir à la [conférence et/ou à atelier sur le provisionning](//lyon.afup.org/2015/01/05/soiree-provisionning-le-vendredi-23-janvier-a-19h00//)
+PS : il est encore temps de s&rsquo;inscrire pour venir à la [conférence et/ou à atelier sur le provisionning](/archives/2015/01/05/soiree-provisionning-le-vendredi-23-janvier-a-19h00//)
 
 ![](/files/2014/10/Bl10fnCIgAAcGPw.jpg)

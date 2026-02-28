@@ -4,7 +4,7 @@ title: Conférence sur la gestion du temps et Sylius le 1er mars à 19h
 date: 2018-02-13T19:15:22+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1867
+guid: /archives/?p=1867
 permalink: /2018/02/13/conference-sur-la-gestion-du-temps-et-sylius-le-1er-mars-a-19h/
 categories:
   - Conférence

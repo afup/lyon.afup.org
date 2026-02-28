@@ -4,7 +4,7 @@ title: Meetup wordpress sur le développement de thèmes
 date: 2017-01-05T12:51:47+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1654
+guid: /archives/?p=1654
 permalink: /2017/01/05/meetup-wordpress-sur-le-developpement-de-themes/
 categories:
   - Non classé

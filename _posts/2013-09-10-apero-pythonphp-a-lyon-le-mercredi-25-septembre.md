@@ -4,7 +4,7 @@ title: Apéro Python/PHP à Lyon le mercredi 25 septembre
 date: 2013-09-10T08:00:45+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=498
+guid: /archives/?p=498
 permalink: /2013/09/10/apero-pythonphp-a-lyon-le-mercredi-25-septembre/
 categories:
   - AperoPHP
@@ -29,4 +29,4 @@ Deux présentations sont prévues : Python pour les développeurs PHP, et la pr�
   * [Python](http://www.python.org/)
   * [PHP](http://www.php.net)
 
-PS : n&rsquo;oubliez pas la [conférence sur atoum](http://lyon.afup.org/2013/09/05/conference-sur-atoum-le-10-septembre-a-19h30/) mardi 10 septembre à 19h30
+PS : n&rsquo;oubliez pas la [conférence sur atoum](/archives/2013/09/05/conference-sur-atoum-le-10-septembre-a-19h30/) mardi 10 septembre à 19h30

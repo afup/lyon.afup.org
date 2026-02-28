@@ -4,7 +4,7 @@ title: AperoPHP – mercredi 29 mai à 19h
 date: 2013-05-15T13:01:32+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=390
+guid: /archives/?p=390
 permalink: /2013/05/15/aperophp-mercredi-29-mai-a-19h/
 categories:
   - AperoPHP

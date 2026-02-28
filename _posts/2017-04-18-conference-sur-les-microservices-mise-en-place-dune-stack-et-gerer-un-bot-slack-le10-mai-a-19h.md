@@ -4,7 +4,7 @@ title: 'Conférence sur les microservices : mise en place d&rsquo;une stack et g
 date: 2017-04-18T11:08:04+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1747
+guid: /archives/?p=1747
 permalink: /2017/04/18/conference-sur-les-microservices-mise-en-place-dune-stack-et-gerer-un-bot-slack-le10-mai-a-19h/
 categories:
   - Conférence

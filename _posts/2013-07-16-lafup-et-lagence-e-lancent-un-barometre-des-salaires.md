@@ -4,7 +4,7 @@ title: 'L&rsquo;AFUP et l&rsquo;Agence-E lancent un baromètre des salaires'
 date: 2013-07-16T08:00:57+00:00
 author: Mikael Randy
 layout: post
-guid: http://lyon.afup.org/?p=479
+guid: /archives/?p=479
 permalink: /2013/07/16/lafup-et-lagence-e-lancent-un-barometre-des-salaires/
 categories:
   - Général

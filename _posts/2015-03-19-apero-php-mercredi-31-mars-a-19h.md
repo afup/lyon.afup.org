@@ -4,7 +4,7 @@ title: Apéro PHP – mardi 31 mars à 19h
 date: 2015-03-19T12:55:32+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1019
+guid: /archives/?p=1019
 permalink: /2015/03/19/apero-php-mercredi-31-mars-a-19h/
 categories:
   - AperoPHP
@@ -17,4 +17,4 @@ Comme d’habitude l’apéro aura lieu à [l’Antre-Autre](http://www.lantreau
 
 Les apéros PHP sont ouverts à tous, quel que soit le niveau, le but est de rencontrer d’autres développeurs PHP de la région lyonnaise, de boire un verre ensemble, de discuter de tout et de rien, en fonction des envies de tout le monde.
 
-PS : vous pouvez toujours vous inscrire à la [conférence sur Thélia](http://lyon.afup.org/2015/03/10/conference-sur-thelia-le-3-avril-a-19h/), le framework e-commerce basé sur Symfony2.
+PS : vous pouvez toujours vous inscrire à la [conférence sur Thélia](/archives/2015/03/10/conference-sur-thelia-le-3-avril-a-19h/), le framework e-commerce basé sur Symfony2.

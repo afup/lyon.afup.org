@@ -4,7 +4,7 @@ title: 'Conférence et retour d&rsquo;expérience sur Kubernetes et Terraform le
 date: 2018-12-06T08:26:02+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1950
+guid: /archives/?p=1950
 permalink: /2018/12/06/conference-et-retour-dexperience-sur-kubernetes-et-terraform-le-mardi-18-decembre-a-19h/
 categories:
   - Conférence

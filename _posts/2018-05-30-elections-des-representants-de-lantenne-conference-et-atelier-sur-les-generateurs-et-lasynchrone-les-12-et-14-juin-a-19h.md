@@ -4,7 +4,7 @@ title: 'Elections des représentants de l&rsquo;antenne, conférence et atelier 
 date: 2018-05-30T11:18:20+00:00
 author: Cédric Mourizard
 layout: post
-guid: http://lyon.afup.org/?p=1880
+guid: /archives/?p=1880
 permalink: /2018/05/30/elections-des-representants-de-lantenne-conference-et-atelier-sur-les-generateurs-et-lasynchrone-les-12-et-14-juin-a-19h/
 categories:
   - Atelier

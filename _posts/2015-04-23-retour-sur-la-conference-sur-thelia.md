@@ -4,7 +4,7 @@ title: Retour sur la conférence sur Thélia
 date: 2015-04-23T22:12:38+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=1069
+guid: /archives/?p=1069
 permalink: /2015/04/23/retour-sur-la-conference-sur-thelia/
 categories:
   - Conférence
@@ -17,4 +17,4 @@ Voici les slides utilisés pour la présentation : <http://raynaud.io/slides/afu
 
 ![](/files/2015/04/IMG_0343-300x300.jpg)
 
-PS : vous pouvez toujours vous inscrire à la [conférence sur AWS](http://lyon.afup.org/2015/04/13/conference-sur-aws-le-6-mai-a-19h/)
+PS : vous pouvez toujours vous inscrire à la [conférence sur AWS](/archives/2015/04/13/conference-sur-aws-le-6-mai-a-19h/)

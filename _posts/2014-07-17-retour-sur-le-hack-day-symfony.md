@@ -4,7 +4,7 @@ title: Retour sur le Hack day symfony
 date: 2014-07-17T12:37:57+00:00
 author: Adrien Gallou
 layout: post
-guid: http://lyon.afup.org/?p=806
+guid: /archives/?p=806
 permalink: /2014/07/17/retour-sur-le-hack-day-symfony/
 categories:
   - Non classé
